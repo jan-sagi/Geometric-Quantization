@@ -5,7 +5,7 @@
 **Status:** Public Review / Phenomenological Study  
 **Date:** November 2025
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 
 ## 📄 Abstract
@@ -29,6 +29,7 @@ The model derives the masses of the Proton and Muon with extreme precision witho
 The model analytically derives the Gravitational Constant ($G$) from the proton mass and $\alpha$.
 
 $$ G_{theor} = \frac{\hbar c}{m_p^2} \cdot (\Gamma_p^2 \cdot \alpha^{2X}) $$
+
 *Where $X \approx 10.47$ is a geometric dimensional exponent derived from $\pi$ and $\alpha$.*
 
 *   **Theoretical G:** $6.6735 \times 10^{-11}$
@@ -55,7 +56,9 @@ Scientific claims must be falsifiable. You can reproduce all calculations on you
 *   Standard libraries (`decimal`, `math`, `sys`, `csv`)
 
 ### How to Run
+*Note: Since filenames contain spaces, please use quotes as shown below.*
 
 **1. Verify Fundamental Constants & G:**
+Run the verification engine to check the proton mass and gravitational constant derivation.
 ```bash
-python code/verification_engine.py
+python "The Geometric Universe: Grand Unified Engine.py"

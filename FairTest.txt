@@ -1,0 +1,166 @@
+Scanning Geometric Lattice [0 - 11000 MeV]...
+====================================================================================================
+ THE GEOMETRIC UNIVERSE: DISCOVERY SCAN (0 - 11000 MeV)
+ Searching for stable geometric nodes and missing particles...
+====================================================================================================
+ THEORY(MeV)  | SCALE           | k    | STAB | STATUS               | MATCH/PREDICTION
+----------------------------------------------------------------------------------------------------
+ 70.0         | MESON (A^-1)    | 1    | 60   | RESONANCE            | Possible Excited State
+ 104.1        | LEPTON (N)      | 1    | 90   | CONFIRMED            | Muon (Err: 1.5%)
+ 140.1        | MESON (A^-1)    | 2*   | 90   | CONFIRMED            | Pion+ (Err: 0.3%)
+ 156.4        | BARYON (Pi^5)   | 1    | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 208.2        | LEPTON (N)      | 2*   | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 210.1        | MESON (A^-1)    | 3*   | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 280.1        | MESON (A^-1)    | 4    | 60   | RESONANCE            | Possible Excited State
+ 312.3        | LEPTON (N)      | 3*   | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 312.8        | BARYON (Pi^5)   | 2*   | 110  | PREDICTION           | ?? NEW CANDIDATE ??
+ 350.1        | MESON (A^-1)    | 5*   | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 416.5        | LEPTON (N)      | 4    | 50   | RESONANCE            | Possible Excited State
+ 420.2        | MESON (A^-1)    | 6    | 60   | RESONANCE            | Possible Excited State
+ 469.1        | BARYON (Pi^5)   | 3*   | 110  | PREDICTION           | ?? NEW CANDIDATE ??
+ 490.2        | MESON (A^-1)    | 7*   | 90   | CONFIRMED            | Kaon+ (Err: 0.7%)
+ 520.6        | LEPTON (N)      | 5*   | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 560.2        | MESON (A^-1)    | 8    | 60   | CONFIRMED            | Eta (Err: 2.2%)
+ 624.7        | LEPTON (N)      | 6    | 50   | RESONANCE            | Possible Excited State
+ 625.5        | BARYON (Pi^5)   | 4    | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 630.2        | MESON (A^-1)    | 9    | 60   | RESONANCE            | Possible Excited State
+ 728.8        | LEPTON (N)      | 7*   | 80   | PREDICTION           | ?? NEW CANDIDATE ??
+ 770.3        | MESON (A^-1)    | 11*  | 70   | CONFIRMED            | Rho(770) (Err: 0.6%)
+ 781.9        | BARYON (Pi^5)   | 5*   | 110  | CONFIRMED            | Rho(770) (Err: 0.8%)
+ 832.9        | LEPTON (N)      | 8    | 50   | RESONANCE            | Possible Excited State
+ 910.3        | MESON (A^-1)    | 13*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 937.0        | LEPTON (N)      | 9    | 50   | CONFIRMED            | Eta_prime (Err: 2.2%)
+ 938.3        | BARYON (Pi^5)   | 6    | 100  | CONFIRMED            | Eta_prime (Err: 2.1%)
+ 980.4        | MESON (A^-1)    | 14   | 40   | CONFIRMED            | Eta_prime (Err: 2.3%)
+ 1041.2       | LEPTON (N)      | 10   | 30   | CONFIRMED            | Phi(1020) (Err: 2.1%)
+ 1094.6       | BARYON (Pi^5)   | 7*   | 110  | CONFIRMED            | Lambda (Err: 1.9%)
+ 1120.4       | MESON (A^-1)    | 16   | 40   | CONFIRMED            | Lambda (Err: 0.4%)
+ 1145.3       | LEPTON (N)      | 11*  | 60   | RESONANCE            | Possible Excited State
+ 1190.4       | MESON (A^-1)    | 17*  | 70   | CONFIRMED            | Sigma+ (Err: 0.1%)
+ 1249.4       | LEPTON (N)      | 12   | 30   | CONFIRMED            | a1(1260) (Err: 1.6%)
+ 1251.0       | BARYON (Pi^5)   | 8    | 80   | CONFIRMED            | a1(1260) (Err: 1.7%)
+ 1260.5       | MESON (A^-1)    | 18   | 40   | CONFIRMED            | a1(1260) (Err: 2.4%)
+ 1330.5       | MESON (A^-1)    | 19*  | 70   | CONFIRMED            | Xi- (Err: 0.7%)
+ 1353.5       | LEPTON (N)      | 13*  | 60   | CONFIRMED            | Xi- (Err: 2.3%)
+ 1400.5       | MESON (A^-1)    | 20   | 40   | CONFIRMED            | Sigma(1385) (Err: 1.1%)
+ 1407.4       | BARYON (Pi^5)   | 9    | 80   | CONFIRMED            | Sigma(1385) (Err: 1.6%)
+ 1457.6       | LEPTON (N)      | 14   | 30   | CONFIRMED            | Roper N(1440) (Err: 1.2%)
+ 1470.5       | MESON (A^-1)    | 21   | 40   | CONFIRMED            | Roper N(1440) (Err: 2.1%)
+ 1540.6       | MESON (A^-1)    | 22   | 40   | CONFIRMED            | Lambda(1520) (Err: 1.3%)
+ 1561.7       | LEPTON (N)      | 15   | 30   | CONFIRMED            | N(1535) (Err: 1.7%)
+ 1563.8       | BARYON (Pi^5)   | 10   | 60   | CONFIRMED            | N(1535) (Err: 1.8%)
+ 1610.6       | MESON (A^-1)    | 23*  | 70   | CONFIRMED            | Delta(1600) (Err: 0.7%)
+ 1665.9       | LEPTON (N)      | 16   | 30   | CONFIRMED            | Omega- (Err: 0.4%)
+ 1680.6       | MESON (A^-1)    | 24   | 40   | CONFIRMED            | Omega- (Err: 0.5%)
+ 1720.1       | BARYON (Pi^5)   | 11*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 1750.6       | MESON (A^-1)    | 25   | 40   | CONFIRMED            | Tau (Err: 1.5%)
+ 1770.0       | LEPTON (N)      | 17*  | 60   | CONFIRMED            | Tau (Err: 0.4%)
+ 1820.7       | MESON (A^-1)    | 26   | 40   | CONFIRMED            | Tau (Err: 2.4%)
+ 1874.1       | LEPTON (N)      | 18   | 30   | CONFIRMED            | D+ (Err: 0.2%)
+ 1876.5       | BARYON (Pi^5)   | 12   | 60   | CONFIRMED            | D+ (Err: 0.4%)
+ 1890.7       | MESON (A^-1)    | 27   | 40   | CONFIRMED            | D+ (Err: 1.1%)
+ 1960.7       | MESON (A^-1)    | 28   | 40   | CONFIRMED            | D_s+ (Err: 0.4%)
+ 1978.2       | LEPTON (N)      | 19*  | 60   | CONFIRMED            | D_s+ (Err: 0.5%)
+ 2030.7       | MESON (A^-1)    | 29*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2032.9       | BARYON (Pi^5)   | 13*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2170.8       | MESON (A^-1)    | 31*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2189.3       | BARYON (Pi^5)   | 14   | 60   | RESONANCE            | Possible Excited State
+ 2240.8       | MESON (A^-1)    | 32   | 40   | CONFIRMED            | Lambda_c (Err: 2.0%)
+ 2290.6       | LEPTON (N)      | 22   | 30   | CONFIRMED            | Lambda_c (Err: 0.2%)
+ 2310.8       | MESON (A^-1)    | 33   | 40   | CONFIRMED            | Lambda_c (Err: 1.1%)
+ 2345.6       | BARYON (Pi^5)   | 15   | 60   | RESONANCE            | Possible Excited State
+ 2394.7       | LEPTON (N)      | 23*  | 60   | RESONANCE            | Possible Excited State
+ 2502.0       | BARYON (Pi^5)   | 16   | 60   | RESONANCE            | Possible Excited State
+ 2590.9       | MESON (A^-1)    | 37*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2658.4       | BARYON (Pi^5)   | 17*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2814.8       | BARYON (Pi^5)   | 18   | 60   | RESONANCE            | Possible Excited State
+ 2871.0       | MESON (A^-1)    | 41*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 2915.3       | LEPTON (N)      | 28   | 30   | CONFIRMED            | Eta_c (Err: 2.3%)
+ 2941.1       | MESON (A^-1)    | 42   | 40   | CONFIRMED            | Eta_c (Err: 1.4%)
+ 2971.1       | BARYON (Pi^5)   | 19*  | 90   | CONFIRMED            | Eta_c (Err: 0.4%)
+ 3011.1       | MESON (A^-1)    | 43*  | 70   | CONFIRMED            | Eta_c (Err: 0.9%)
+ 3019.4       | LEPTON (N)      | 29*  | 60   | CONFIRMED            | Eta_c (Err: 1.2%)
+ 3081.1       | MESON (A^-1)    | 44   | 40   | CONFIRMED            | J/Psi (Err: 0.5%)
+ 3123.5       | LEPTON (N)      | 30   | 30   | CONFIRMED            | J/Psi (Err: 0.9%)
+ 3127.5       | BARYON (Pi^5)   | 20   | 60   | CONFIRMED            | J/Psi (Err: 1.0%)
+ 3151.1       | MESON (A^-1)    | 45   | 40   | CONFIRMED            | J/Psi (Err: 1.7%)
+ 3227.6       | LEPTON (N)      | 31*  | 60   | RESONANCE            | Possible Excited State
+ 3283.9       | BARYON (Pi^5)   | 21   | 60   | RESONANCE            | Possible Excited State
+ 3291.2       | MESON (A^-1)    | 47*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 3440.3       | BARYON (Pi^5)   | 22   | 60   | RESONANCE            | Possible Excited State
+ 3596.6       | BARYON (Pi^5)   | 23*  | 90   | CONFIRMED            | Psi(2S) (Err: 2.5%)
+ 3644.1       | LEPTON (N)      | 35   | 30   | CONFIRMED            | Psi(2S) (Err: 1.2%)
+ 3711.3       | MESON (A^-1)    | 53*  | 50   | CONFIRMED            | Psi(2S) (Err: 0.7%)
+ 3748.2       | LEPTON (N)      | 36   | 30   | CONFIRMED            | Psi(2S) (Err: 1.7%)
+ 3753.0       | BARYON (Pi^5)   | 24   | 60   | CONFIRMED            | Psi(2S) (Err: 1.8%)
+ 3852.3       | LEPTON (N)      | 37*  | 60   | RESONANCE            | Possible Excited State
+ 3909.4       | BARYON (Pi^5)   | 25   | 60   | RESONANCE            | Possible Excited State
+ 4065.8       | BARYON (Pi^5)   | 26   | 60   | RESONANCE            | Possible Excited State
+ 4131.5       | MESON (A^-1)    | 59*  | 50   | RESONANCE            | Possible Excited State
+ 4222.1       | BARYON (Pi^5)   | 27   | 60   | RESONANCE            | Possible Excited State
+ 4268.8       | LEPTON (N)      | 41*  | 60   | RESONANCE            | Possible Excited State
+ 4271.5       | MESON (A^-1)    | 61*  | 50   | RESONANCE            | Possible Excited State
+ 4378.5       | BARYON (Pi^5)   | 28   | 60   | RESONANCE            | Possible Excited State
+ 4477.0       | LEPTON (N)      | 43*  | 60   | RESONANCE            | Possible Excited State
+ 4534.9       | BARYON (Pi^5)   | 29*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 4691.3       | BARYON (Pi^5)   | 30   | 60   | RESONANCE            | Possible Excited State
+ 4691.7       | MESON (A^-1)    | 67*  | 50   | RESONANCE            | Possible Excited State
+ 4847.6       | BARYON (Pi^5)   | 31*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 4893.5       | LEPTON (N)      | 47*  | 60   | RESONANCE            | Possible Excited State
+ 4971.8       | MESON (A^-1)    | 71*  | 50   | RESONANCE            | Possible Excited State
+ 5004.0       | BARYON (Pi^5)   | 32   | 60   | RESONANCE            | Possible Excited State
+ 5111.8       | MESON (A^-1)    | 73*  | 50   | RESONANCE            | Possible Excited State
+ 5160.4       | BARYON (Pi^5)   | 33   | 60   | CONFIRMED            | B+ (Err: 2.3%)
+ 5205.8       | LEPTON (N)      | 50   | 30   | CONFIRMED            | B+ (Err: 1.4%)
+ 5316.8       | BARYON (Pi^5)   | 34   | 60   | CONFIRMED            | B+ (Err: 0.7%)
+ 5473.2       | BARYON (Pi^5)   | 35   | 60   | RESONANCE            | Possible Excited State
+ 5532.0       | MESON (A^-1)    | 79*  | 50   | RESONANCE            | Possible Excited State
+ 5629.5       | BARYON (Pi^5)   | 36   | 60   | RESONANCE            | Possible Excited State
+ 5785.9       | BARYON (Pi^5)   | 37*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 5812.1       | MESON (A^-1)    | 83*  | 50   | RESONANCE            | Possible Excited State
+ 5942.3       | BARYON (Pi^5)   | 38   | 60   | RESONANCE            | Possible Excited State
+ 6098.7       | BARYON (Pi^5)   | 39   | 60   | RESONANCE            | Possible Excited State
+ 6232.2       | MESON (A^-1)    | 89*  | 50   | RESONANCE            | Possible Excited State
+ 6255.0       | BARYON (Pi^5)   | 40   | 60   | RESONANCE            | Possible Excited State
+ 6411.4       | BARYON (Pi^5)   | 41*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 6567.8       | BARYON (Pi^5)   | 42   | 60   | RESONANCE            | Possible Excited State
+ 6724.2       | BARYON (Pi^5)   | 43*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 6792.5       | MESON (A^-1)    | 97*  | 50   | RESONANCE            | Possible Excited State
+ 6880.5       | BARYON (Pi^5)   | 44   | 60   | RESONANCE            | Possible Excited State
+ 7036.9       | BARYON (Pi^5)   | 45   | 60   | RESONANCE            | Possible Excited State
+ 7072.6       | MESON (A^-1)    | 101* | 50   | RESONANCE            | Possible Excited State
+ 7193.3       | BARYON (Pi^5)   | 46   | 60   | RESONANCE            | Possible Excited State
+ 7212.6       | MESON (A^-1)    | 103* | 50   | RESONANCE            | Possible Excited State
+ 7349.7       | BARYON (Pi^5)   | 47*  | 90   | PREDICTION           | ?? NEW CANDIDATE ??
+ 7492.7       | MESON (A^-1)    | 107* | 50   | RESONANCE            | Possible Excited State
+ 7506.0       | BARYON (Pi^5)   | 48   | 60   | RESONANCE            | Possible Excited State
+ 7632.8       | MESON (A^-1)    | 109* | 50   | RESONANCE            | Possible Excited State
+ 7662.4       | BARYON (Pi^5)   | 49   | 60   | RESONANCE            | Possible Excited State
+ 7818.8       | BARYON (Pi^5)   | 50   | 60   | RESONANCE            | Possible Excited State
+ 7912.9       | MESON (A^-1)    | 113* | 50   | RESONANCE            | Possible Excited State
+ 8287.9       | BARYON (Pi^5)   | 53*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 8893.2       | MESON (A^-1)    | 127* | 50   | RESONANCE            | Possible Excited State
+ 9173.3       | MESON (A^-1)    | 131* | 50   | RESONANCE            | Possible Excited State
+ 9226.2       | BARYON (Pi^5)   | 59*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 9266.4       | LEPTON (N)      | 89*  | 40   | CONFIRMED            | Upsilon(1S) (Err: 2.1%)
+ 9382.5       | BARYON (Pi^5)   | 60   | 40   | CONFIRMED            | Upsilon(1S) (Err: 0.8%)
+ 9538.9       | BARYON (Pi^5)   | 61*  | 70   | CONFIRMED            | Upsilon(1S) (Err: 0.8%)
+ 9593.5       | MESON (A^-1)    | 137* | 50   | CONFIRMED            | Upsilon(1S) (Err: 1.4%)
+ 9695.3       | BARYON (Pi^5)   | 62   | 40   | CONFIRMED            | Upsilon(1S) (Err: 2.4%)
+ 9733.5       | MESON (A^-1)    | 139* | 50   | RESONANCE            | Possible Excited State
+ 9851.7       | BARYON (Pi^5)   | 63   | 40   | CONFIRMED            | Upsilon(2S) (Err: 1.7%)
+ 10008.0      | BARYON (Pi^5)   | 64   | 40   | CONFIRMED            | Upsilon(2S) (Err: 0.1%)
+ 10099.3      | LEPTON (N)      | 97*  | 40   | CONFIRMED            | Upsilon(2S) (Err: 0.8%)
+ 10164.4      | BARYON (Pi^5)   | 65   | 40   | CONFIRMED            | Upsilon(2S) (Err: 1.4%)
+ 10433.8      | MESON (A^-1)    | 149* | 50   | RESONANCE            | Possible Excited State
+ 10477.2      | BARYON (Pi^5)   | 67*  | 70   | PREDICTION           | ?? NEW CANDIDATE ??
+ 10573.8      | MESON (A^-1)    | 151* | 50   | RESONANCE            | Possible Excited State
+ 10994.0      | MESON (A^-1)    | 157* | 50   | RESONANCE            | Possible Excited State
+----------------------------------------------------------------------------------------------------
+ SCAN REPORT:
+ Theory Nodes Generated: 204
+ Known Particles Matched: 27 / 38
+ HIGH CONFIDENCE PREDICTIONS (New Particles?): 28
+====================================================================================================
+ NOTE: 'k*' indicates a Prime Number topology (Higher Stability).
+ Predictions around 3000-10000 MeV are likely undiscovered Meson states (XYZ particles).

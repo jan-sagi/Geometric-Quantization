@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Geometric Quantization of Matter - Jan Šági</title>
-    
+
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    
+
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Roboto:wght@400;500;700&family=Fira+Code&display=swap" rel="stylesheet">
 
@@ -72,7 +72,7 @@
             background: #fafafa;
             margin-bottom: 20px;
         }
-        
+
         .discovery-card.prime {
             border-color: #ffc107;
             background: #fffbf0;
@@ -106,170 +106,170 @@
             color: #fff;
             text-align: center;
         }
-        
+
         footer a { color: #fff; text-decoration: underline; }
     </style>
 </head>
 <body>
 
-    <!-- Hero Section -->
-    <div class="hero-section">
-        <div class="container">
-            <h1 class="display-4">Geometric Quantization of Matter</h1>
-            <p class="lead text-muted">A Phenomenological Study of Fundamental Constants and Particle Spectrum</p>
-            <div class="mt-4 author-meta">
-                <strong>Jan Šági</strong> &bull; November 2025 &bull; Brighton, UK
-            </div>
-            <div class="mt-4 nav-links">
-                <a href="FairTest.py" class="btn btn-outline-dark btn-sm">View FairTest.py</a>
-                <a href="paper_final.pdf" class="btn btn-primary btn-sm">Download PDF</a>
-            </div>
+<!-- Hero Section -->
+<div class="hero-section">
+    <div class="container">
+        <h1 class="display-4">Geometric Quantization of Matter</h1>
+        <p class="lead text-muted">A Phenomenological Study of Fundamental Constants and Particle Spectrum</p>
+        <div class="mt-4 author-meta">
+            <strong>Jan Šági</strong> &bull; November 2025 &bull; Brighton, UK
+        </div>
+        <div class="mt-4 nav-links">
+            <a href="FairTest.py" class="btn btn-outline-dark btn-sm">View FairTest.py</a>
+            <a href="paper_final.pdf" class="btn btn-primary btn-sm">Download PDF</a>
         </div>
     </div>
+</div>
 
-    <div class="paper-container">
+<div class="paper-container">
 
-        <!-- Abstract -->
-        <section class="mb-5">
-            <h3>Abstract</h3>
-            <p>
-                This project presents evidence that the masses of elementary particles are not random, but represent <strong>resonant nodes on a geometric lattice</strong> defined by the constants \(\pi\), \(\alpha\) (fine-structure), and the spacetime logarithmic base \(N = \ln(4\pi)\).
-            </p>
-            <p>
-                The model operates in two phases:
-                <ol>
-                    <li><strong>Discovery Phase:</strong> A blind scan of integers identifying stable particles as Prime Nodes.</li>
-                    <li><strong>Rigorous Phase:</strong> Deriving exact masses and the Gravitational Constant \(G\) using topological corrections.</li>
-                </ol>
-            </p>
-        </section>
+    <!-- Abstract -->
+    <section class="mb-5">
+        <h3>Abstract</h3>
+        <p>
+            This project presents evidence that the masses of elementary particles are not random, but represent <strong>resonant nodes on a geometric lattice</strong> defined by the constants \(\pi\), \(\alpha\) (fine-structure), and the spacetime logarithmic base \(N = \ln(4\pi)\).
+        </p>
+        <p>
+            The model operates in two phases:
+        <ol>
+            <li><strong>Discovery Phase:</strong> A blind scan of integers identifying stable particles as Prime Nodes.</li>
+            <li><strong>Rigorous Phase:</strong> Deriving exact masses and the Gravitational Constant \(G\) using topological corrections.</li>
+        </ol>
+        </p>
+    </section>
 
-        <hr>
+    <hr>
 
-        <!-- PHASE 1: FAIR TEST -->
-        <section class="mt-5">
-            <h2 class="text-center mb-4">Phase 1: The "Fair Test" Discovery</h2>
-            <p>
-                Using the <code>FairTest.py</code> engine (available in this repository), we scan the energy spectrum using <strong>zero parameter tuning</strong>. The model predicts that stable particles should align with integer nodes \(k\), specifically <strong>Prime Numbers</strong>.
-            </p>
+    <!-- PHASE 1: FAIR TEST -->
+    <section class="mt-5">
+        <h2 class="text-center mb-4">Phase 1: The "Fair Test" Discovery</h2>
+        <p>
+            Using the <code>FairTest.py</code> engine (available in this repository), we scan the energy spectrum using <strong>zero parameter tuning</strong>. The model predicts that stable particles should align with integer nodes \(k\), specifically <strong>Prime Numbers</strong>.
+        </p>
 
-            <div class="row mt-4">
-                <!-- Pion -->
-                <div class="col-md-3">
-                    <div class="discovery-card prime">
-                        <span class="prime-badge">Prime Node</span>
-                        <span class="k-number">k = 2</span>
-                        <strong>Pion (\(\pi^+\))</strong><br>
-                        <small>Scale: \(\alpha^{-1}\)</small><br>
-                        <span class="text-success">Error: 0.3%</span>
-                    </div>
-                </div>
-                <!-- Proton -->
-                <div class="col-md-3">
-                    <div class="discovery-card" style="border-color: #198754; background: #f0fff4;">
-                        <span class="prime-badge text-success">Hexagon Symmetry</span>
-                        <span class="k-number">k = 6</span>
-                        <strong>Proton (\(p\))</strong><br>
-                        <small>Scale: \(\pi^5\)</small><br>
-                        <span class="text-success fw-bold">Error: 0.0%</span>
-                    </div>
-                </div>
-                <!-- Kaon -->
-                <div class="col-md-3">
-                    <div class="discovery-card prime">
-                        <span class="prime-badge">Prime Node</span>
-                        <span class="k-number">k = 7</span>
-                        <strong>Kaon (\(K^+\))</strong><br>
-                        <small>Scale: \(\alpha^{-1}\)</small><br>
-                        <span class="text-success">Error: 0.7%</span>
-                    </div>
-                </div>
-                <!-- Tau -->
-                <div class="col-md-3">
-                    <div class="discovery-card prime">
-                        <span class="prime-badge">Prime Node</span>
-                        <span class="k-number">k = 17</span>
-                        <strong>Tau (\(\tau\))</strong><br>
-                        <small>Scale: \(N^3\)</small><br>
-                        <span class="text-success">Error: 0.4%</span>
-                    </div>
+        <div class="row mt-4">
+            <!-- Pion -->
+            <div class="col-md-3">
+                <div class="discovery-card prime">
+                    <span class="prime-badge">Prime Node</span>
+                    <span class="k-number">k = 2</span>
+                    <strong>Pion (\(\pi^+\))</strong><br>
+                    <small>Scale: \(\alpha^{-1}\)</small><br>
+                    <span class="text-success">Error: 0.3%</span>
                 </div>
             </div>
-            <p class="text-center text-muted small mt-2">
-                <em>Data generated automatically by FairTest.py without manual correction.</em>
-            </p>
-        </section>
-
-        <!-- PHASE 2: RIGOROUS MODEL -->
-        <section class="mt-5 pt-4">
-            <h2 class="text-center mb-4">Phase 2: Rigorous Precision</h2>
-            <p>
-                By applying topological corrections based on the Euler characteristic of the nodes, we achieve 110-bit precision alignment with CODATA values.
-            </p>
-
-            <!-- MUON -->
-            <div class="equation-box">
-                <h4>The Fundamental Lepton (Muon)</h4>
-                <p>Modeling the muon as a sphere (\(k=1\)) with topology correction \(2\alpha\).</p>
-                <p class="fs-4 text-center">
-                    $$ m_\mu = m_e \cdot \frac{4\pi N^3}{1 - 2\alpha} $$
-                </p>
-                <div class="row text-center mt-3">
-                    <div class="col-6"><strong>Theory:</strong> 206.76826 \(m_e\)</div>
-                    <div class="col-6 text-success"><strong>Error:</strong> 0.000007 %</div>
+            <!-- Proton -->
+            <div class="col-md-3">
+                <div class="discovery-card" style="border-color: #198754; background: #f0fff4;">
+                    <span class="prime-badge text-success">Hexagon Symmetry</span>
+                    <span class="k-number">k = 6</span>
+                    <strong>Proton (\(p\))</strong><br>
+                    <small>Scale: \(\pi^5\)</small><br>
+                    <span class="text-success fw-bold">Error: 0.0%</span>
                 </div>
             </div>
-
-            <!-- PROTON -->
-            <div class="equation-box">
-                <h4>The Proton Anchor</h4>
-                <p>The proton represents perfect geometric symmetry ($k=6$) on the Baryon scale, requiring zero correction.</p>
-                <p class="fs-4 text-center">
-                    $$ m_p = m_e \cdot 6\pi^5 $$
-                </p>
-                <div class="row text-center mt-3">
-                    <div class="col-6"><strong>Theory:</strong> 1836.118 \(m_e\)</div>
-                    <div class="col-6 text-success"><strong>Error:</strong> 0.0019 %</div>
+            <!-- Kaon -->
+            <div class="col-md-3">
+                <div class="discovery-card prime">
+                    <span class="prime-badge">Prime Node</span>
+                    <span class="k-number">k = 7</span>
+                    <strong>Kaon (\(K^+\))</strong><br>
+                    <small>Scale: \(\alpha^{-1}\)</small><br>
+                    <span class="text-success">Error: 0.7%</span>
                 </div>
             </div>
-
-            <!-- GRAVITY -->
-            <div class="equation-box" style="border-left-color: #6610f2;">
-                <h4>Unification: The Gravitational Constant (G)</h4>
-                <p>Deriving \(G\) from the proton mass and the 10-dimensional geometry of space.</p>
-                <p class="fs-5 text-center">
-                    $$ G_{theor} = \frac{\hbar c}{m_p^2} \cdot \left[ (6\pi^5)^2 \cdot \alpha^{2X} \right] $$
-                </p>
-                <p class="text-center small text-muted">
-                    Where \( X \approx 10\pi/3 \) is the dimensional exponent.
-                </p>
-                <div class="row text-center mt-3">
-                    <div class="col-6"><strong>Theory:</strong> \(6.6740 \times 10^{-11}\)</div>
-                    <div class="col-6 text-success"><strong>Error:</strong> 0.0037 %</div>
+            <!-- Tau -->
+            <div class="col-md-3">
+                <div class="discovery-card prime">
+                    <span class="prime-badge">Prime Node</span>
+                    <span class="k-number">k = 17</span>
+                    <strong>Tau (\(\tau\))</strong><br>
+                    <small>Scale: \(N^3\)</small><br>
+                    <span class="text-success">Error: 0.4%</span>
                 </div>
             </div>
-        </section>
-
-        <section class="mt-5 mb-5">
-            <h3>Key Predictions</h3>
-            <ul>
-                <li><strong>Higgs Boson:</strong> Derived as a projection of the Proton into 3D space: \(m_H \approx 125.76\) GeV (Error 0.4%).</li>
-                <li><strong>New Particle (6.4 GeV):</strong> FairTest predicts a stable Prime Node (\(k=41\)) at \(\approx 6411\) MeV.</li>
-                <li><strong>Glueball:</strong> The candidate \(f_0(1710)\) matches the Baryon node \(k=11\) exactly.</li>
-            </ul>
-        </section>
-
-    </div>
-
-    <footer>
-        <div class="container">
-            <p><strong>The Geometric Universe Theory</strong></p>
-            <p>Code and Data available under MIT License.</p>
-            <p>
-                <a href="https://github.com/jan-sagi/Geometric-Quantization">View on GitHub</a>
-            </p>
         </div>
-    </footer>
+        <p class="text-center text-muted small mt-2">
+            <em>Data generated automatically by FairTest.py without manual correction.</em>
+        </p>
+    </section>
+
+    <!-- PHASE 2: RIGOROUS MODEL -->
+    <section class="mt-5 pt-4">
+        <h2 class="text-center mb-4">Phase 2: Rigorous Precision</h2>
+        <p>
+            By applying topological corrections based on the Euler characteristic of the nodes, we achieve 110-bit precision alignment with CODATA values.
+        </p>
+
+        <!-- MUON -->
+        <div class="equation-box">
+            <h4>The Fundamental Lepton (Muon)</h4>
+            <p>Modeling the muon as a sphere (\(k=1\)) with topology correction \(2\alpha\).</p>
+            <p class="fs-4 text-center">
+                $$ m_\mu = m_e \cdot \frac{4\pi N^3}{1 - 2\alpha} $$
+            </p>
+            <div class="row text-center mt-3">
+                <div class="col-6"><strong>Theory:</strong> 206.76826 \(m_e\)</div>
+                <div class="col-6 text-success"><strong>Error:</strong> 0.000007 %</div>
+            </div>
+        </div>
+
+        <!-- PROTON -->
+        <div class="equation-box">
+            <h4>The Proton Anchor</h4>
+            <p>The proton represents perfect geometric symmetry ($k=6$) on the Baryon scale, requiring zero correction.</p>
+            <p class="fs-4 text-center">
+                $$ m_p = m_e \cdot 6\pi^5 $$
+            </p>
+            <div class="row text-center mt-3">
+                <div class="col-6"><strong>Theory:</strong> 1836.118 \(m_e\)</div>
+                <div class="col-6 text-success"><strong>Error:</strong> 0.0019 %</div>
+            </div>
+        </div>
+
+        <!-- GRAVITY -->
+        <div class="equation-box" style="border-left-color: #6610f2;">
+            <h4>Unification: The Gravitational Constant (G)</h4>
+            <p>Deriving \(G\) from the proton mass and the 10-dimensional geometry of space.</p>
+            <p class="fs-5 text-center">
+                $$ G_{theor} = \frac{\hbar c}{m_p^2} \cdot \left[ (6\pi^5)^2 \cdot \alpha^{2X} \right] $$
+            </p>
+            <p class="text-center small text-muted">
+                Where \( X \approx 10\pi/3 \) is the dimensional exponent.
+            </p>
+            <div class="row text-center mt-3">
+                <div class="col-6"><strong>Theory:</strong> \(6.6740 \times 10^{-11}\)</div>
+                <div class="col-6 text-success"><strong>Error:</strong> 0.0037 %</div>
+            </div>
+        </div>
+    </section>
+
+    <section class="mt-5 mb-5">
+        <h3>Key Predictions</h3>
+        <ul>
+            <li><strong>Higgs Boson:</strong> Derived as a projection of the Proton into 3D space: \(m_H \approx 125.76\) GeV (Error 0.4%).</li>
+            <li><strong>New Particle (6.4 GeV):</strong> FairTest predicts a stable Prime Node (\(k=41\)) at \(\approx 6411\) MeV.</li>
+            <li><strong>Glueball:</strong> The candidate \(f_0(1710)\) matches the Baryon node \(k=11\) exactly.</li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <div class="container">
+        <p><strong>The Geometric Universe Theory</strong></p>
+        <p>Code and Data available under MIT License.</p>
+        <p>
+            <a href="https://github.com/jan-sagi/Geometric-Quantization">View on GitHub</a>
+        </p>
+    </div>
+</footer>
 
 </body>
 </html>

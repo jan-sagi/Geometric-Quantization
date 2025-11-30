@@ -1,6 +1,8 @@
 import decimal
 import sys
+import os
 import time
+import re
 from decimal import Decimal, getcontext
 
 # =============================================================================
@@ -21,6 +23,23 @@ from decimal import Decimal, getcontext
 PRECISION_DIGITS = 2000
 getcontext().prec = PRECISION_DIGITS
 
+# --- LOGGER CLASS (Console + File) ---
+class DualLogger:
+    def __init__(self, filename):
+        self.terminal = sys.stdout
+        self.log = open(filename, "w", encoding='utf-8')
+
+    def write(self, message):
+        self.terminal.write(message)
+        # Remove ANSI codes for the text file (clean output)
+        ansi_escape = re.compile(r'\x1B(?:[@-Z\\-_]|\[[0-?]*[ -/]*[@-~])')
+        clean_message = ansi_escape.sub('', message)
+        self.log.write(clean_message)
+
+    def flush(self):
+        self.terminal.flush()
+        self.log.flush()
+
 class UniversalMath:
     """
     The Mathematical Engine.
@@ -37,7 +56,6 @@ class UniversalMath:
         print(f"   [CALCULATION] Generating Pi to {precision} decimal places...")
         start = time.time()
 
-        # Všechny konstanty musí být Decimal, aby nedošlo k float chybě
         C = Decimal(426880) * Decimal(10005).sqrt()
         K = Decimal(6)
         M = Decimal(1)
@@ -45,29 +63,19 @@ class UniversalMath:
         L = Decimal(13591409)
         S = Decimal(13591409)
 
-        # Iterations needed (~14 digits per iteration)
         k_limit = precision // 14 + 1
 
         for k in range(1, k_limit):
             k_dec = Decimal(k)
-
-            # Update M using integer arithmetic logic wrapped in Decimal
-            # M = (K^3 - 16K) * M // k^3
             term_k = (K**3 - 16*K)
             M = (term_k * M) / (k_dec**3)
-            # Truncate M to integer value (Chudnovsky logic requires integer M sequence)
             M = M.to_integral_value()
 
             L += Decimal(545140134)
             X *= Decimal("-262537412640768000")
-
-            # Summation
             S += (M * L) / X
-
             K += Decimal(12)
 
-        # Pi = C / S
-        # Context precision handles the result
         pi_val = C / S
 
         end = time.time()
@@ -90,21 +98,27 @@ class TheoryAudit:
         print("\n" + "="*80)
         print(" THE GEOMETRIC UNIVERSE: CONSTANT VERIFICATION")
         print("="*80)
-        print(" Testing Equation: Alpha^-1 = 4*pi^3 + pi^2 + pi")
-        print(" Interpretation:   Sum of spherical, planar, and linear geometries.")
+
+        # --- THE FORMULA ---
+        print(" HYPOTHESIS FORMULA:")
+        print(" -------------------")
+        print(" α⁻¹ = 4π³ + π² + π")
+        print(" -------------------")
+        print(" Interpretation: Sum of Holographic Geometries")
+        print("   4π³ : Volumetric Component (Sphere Volume factor)")
+        print("   π²  : Surface Component (Flux factor)")
+        print("   π   : Linear Component (Distance factor)")
         print("-" * 80)
 
         # 1. The Geometric Calculation
-        # We break it down by dimensional components
-        term_3d = Decimal(4) * (self.pi ** 3)  # Volumetric component
-        term_2d = self.pi ** 2                 # Surface component
-        term_1d = self.pi                      # Linear component
+        term_3d = Decimal(4) * (self.pi ** 3)
+        term_2d = self.pi ** 2
+        term_1d = self.pi
 
         alpha_geom = term_3d + term_2d + term_1d
 
         # 2. The Comparison
         difference = alpha_geom - self.CODATA_ALPHA_INV
-        # Error in ppm (parts per million)
         error_ppm = (difference / self.CODATA_ALPHA_INV) * Decimal(1_000_000)
 
         # 3. Report Generation
@@ -127,9 +141,6 @@ class TheoryAudit:
         self.interpret_results(difference)
 
     def interpret_results(self, diff):
-        """
-        Scientific interpretation of the mismatch.
-        """
         if abs(diff) < 0.001:
             print(" [CONCLUSION]: HIGH CORRELATION CONFIRMED.")
             print(" The geometric series (4pi^3 + pi^2 + pi) reproduces the fine-structure")
@@ -142,6 +153,11 @@ class TheoryAudit:
             print(" The geometric relation is statistically insignificant.")
 
 if __name__ == "__main__":
+    # Redirect stdout to DualLogger
+    sys.stdout = DualLogger("Fundamental_Constants_Report.txt")
+
     # Execution
     audit = TheoryAudit()
     audit.run_audit()
+
+    print("\n Report saved to 'Fundamental_Constants_Report.txt'")

@@ -1,0 +1,150 @@
+jan@server:~/GeometricBridge$ python3 main.py
+cat results/bridges_found.log
+=== GEOMETRIC BRIDGE INITIALIZED ===
+[MathCore] Precision set to 100 digits.
+[Analyzer] Experimental Alpha Inverse: Theory=137.036304, Real=137.035999, Diff=3.05e-4
+[Analyzer] Proton-Electron Mass Ratio: Theory=1836.118109, Real=1836.152673, Diff=-3.46e-2
+[Analyzer] Muon-Electron Mass Ratio: Theory=206.768261, Real=206.768283, Diff=-2.20e-5
+   -> Analyzuji reziduum pro: Experimental Alpha Inverse (Diff: 3.05e-4)
+      [HIT!] Schwinger Term (alpha/2pi) -> Koeficient: 1/4
+      [HIT!] Alpha over Pi -> Koeficient: 1/8
+   -> Analyzuji reziduum pro: Proton-Electron Mass Ratio (Diff: -3.46e-2)
+   -> Analyzuji reziduum pro: Muon-Electron Mass Ratio (Diff: -2.20e-5)
+
+[Report] Analysis saved to: results/bridges_found.log
+=== ANALYSIS COMPLETE ===
+================================================================================
+ GEOMETRIC BRIDGE ANALYSIS REPORT
+ Generated: 2025-11-27 00:17:02
+================================================================================
+
+SUCCESS: Found 2 significant correlations linking Geometry to Physics.
+
+BRIDGE #1: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Schwinger Term (alpha/2pi)
+   Coupling Coefficient:  1/4
+   Residual Quality:      1.234717e-02 (lower is better)
+ight)oposed Equation:     V_{exp} pprox V_{geo} + 1/4 \left( alpha / (2 * pi)
+
+BRIDGE #2: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Alpha over Pi
+   Coupling Coefficient:  1/8
+   Residual Quality:      6.173585e-03 (lower is better)
+ight)oposed Equation:     V_{exp} pprox V_{geo} + 1/8 \left( alpha / pi
+
+================================================================================
+END OF REPORT
+jan@server:~/GeometricBridge$
+
+
+jan@server:~/GeometricBridge$ python3 main.py
+cat results/bridges_found.log
+=== GEOMETRIC BRIDGE INITIALIZED ===
+[MathCore] Precision set to 100 digits.
+[Analyzer] Experimental Alpha Inverse: Theory=137.036304, Real=137.035999, Diff=3.05e-4
+[Analyzer] Proton-Electron Mass Ratio: Theory=1836.118109, Real=1836.152673, Diff=-3.46e-2
+[Analyzer] Muon-Electron Mass Ratio: Theory=206.768261, Real=206.768283, Diff=-2.20e-5
+   -> Analyzuji reziduum pro: Experimental Alpha Inverse (Diff: 3.05e-4)
+      [HIT!] Schwinger Term -> Koeficient: 1/4
+      [HIT!] Alpha over Pi -> Koeficient: 1/8
+   -> Analyzuji reziduum pro: Proton-Electron Mass Ratio (Diff: -3.46e-2)
+   -> Analyzuji reziduum pro: Muon-Electron Mass Ratio (Diff: -2.20e-5)
+
+[Report] Analysis saved to: results/bridges_found.log
+=== ANALYSIS COMPLETE ===
+================================================================================
+ GEOMETRIC BRIDGE ANALYSIS REPORT
+ Generated: 2025-11-27 00:22:20
+================================================================================
+
+SUCCESS: Found 2 significant correlations linking Geometry to Physics.
+
+BRIDGE #1: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Schwinger Term
+   Coupling Coefficient:  1/4
+   Residual Quality:      1.234717e-02 (lower is better)
+ight)oposed Equation:     V_{exp} pprox V_{geo} + 1/4 \left( alpha / (2 * pi)
+
+BRIDGE #2: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Alpha over Pi
+   Coupling Coefficient:  1/8
+   Residual Quality:      6.173585e-03 (lower is better)
+ight)oposed Equation:     V_{exp} pprox V_{geo} + 1/8 \left( alpha / pi
+
+================================================================================
+END OF REPORT
+jan@server:~/GeometricBridge$
+
+
+================================================================================
+ GEOMETRIC BRIDGE ANALYSIS REPORT
+ Generated: 2025-11-27 00:25:56
+================================================================================
+
+SUCCESS: Found 5 significant correlations linking Geometry to Physics.
+
+BRIDGE #1: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Schwinger Term
+   Coupling Coefficient:  1/4
+   Residual Quality:      1.234717e-02 (lower is better)
+   Proposed Equation:     V_{exp} pprox V_{geo} + 1/4 \left( alpha / (2 * pi)
+ight)
+
+BRIDGE #2: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Alpha over Pi
+   Coupling Coefficient:  1/8
+   Residual Quality:      6.173585e-03 (lower is better)
+   Proposed Equation:     V_{exp} pprox V_{geo} + 1/8 \left( alpha / pi
+ight)
+
+BRIDGE #3: Experimental Alpha Inverse
+----------------------------------------
+   Identified Mechanism:  Alpha Squared
+   Coupling Coefficient:  5
+   Residual Quality:      7.217931e-01 (lower is better)
+   Proposed Equation:     V_{exp} pprox V_{geo} + 5 \left( alpha**2
+ight)
+
+BRIDGE #4: Proton-Electron Mass Ratio
+----------------------------------------
+   Identified Mechanism:  Alpha Interaction
+   Coupling Coefficient:  -5
+   Residual Quality:      2.633788e-01 (lower is better)
+   Proposed Equation:     V_{exp} pprox V_{geo} - 5 \left( alpha
+ight)
+
+BRIDGE #5: Proton-Electron Mass Ratio
+----------------------------------------
+   Identified Mechanism:  Inverse Volumetric (1/pi^3)
+   Coupling Coefficient:  -1
+   Residual Quality:      7.172322e-02 (lower is better)
+   Proposed Equation:     V_{exp} pprox V_{geo} -  \left( 1 / (pi**3)
+ight)
+
+================================================================================
+END OF REPORT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

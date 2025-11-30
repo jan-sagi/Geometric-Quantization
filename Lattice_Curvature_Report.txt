@@ -1,0 +1,43 @@
+[1m================================================================================
+ LATTICE CURVATURE DIAGNOSTIC
+================================================================================[0m
+ Testing: How nodes bend the vacuum lattice.
+--------------------------------------------------------------------------------
+
+[1m>>> PROBING NODE: PROTON (k=6)[0m
+ DISTANCE        | STRAIN (Gravity)     | TIME DILATION   | LATTICE STATE
+--------------------------------------------------------------------------------
+ 1.0e-10         | 2.48423e-44          | 1.000000000000000 x | Elastic
+ 1.0e-12         | 2.48423e-42          | 1.000000000000000 x | Elastic
+ 1.0e-15         | 2.48423e-39          | 1.000000000000000 x | Elastic
+ 1.0e-18         | 2.48423e-36          | 1.000000000000000 x | Elastic
+--------------------------------------------------------------------------------
+ Geometric Horizon (Rs): [96m2.48423e-54 m[0m
+ Planck Lengths:         0.00
+ [1mINTERPRETATION:[0m
+ The node 'PROTON' pulls the lattice with a force of 2.48e-54 geometric units.
+ This 'pull' propagates outwards as 1/r^2, creating what we call Gravity.
+================================================================================
+
+[1m>>> PROBING NODE: TOP QUARK (k=1080)[0m
+ DISTANCE        | STRAIN (Gravity)     | TIME DILATION   | LATTICE STATE
+--------------------------------------------------------------------------------
+ 1.0e-10         | 4.47162e-42          | 1.000000000000000 x | Elastic
+ 1.0e-12         | 4.47162e-40          | 1.000000000000000 x | Elastic
+ 1.0e-15         | 4.47162e-37          | 1.000000000000000 x | Elastic
+ 1.0e-18         | 4.47162e-34          | 1.000000000000000 x | Elastic
+--------------------------------------------------------------------------------
+ Geometric Horizon (Rs): [96m4.47162e-52 m[0m
+ Planck Lengths:         0.00
+ [1mINTERPRETATION:[0m
+ The node 'TOP QUARK' pulls the lattice with a force of 4.47e-52 geometric units.
+ This 'pull' propagates outwards as 1/r^2, creating what we call Gravity.
+================================================================================
+
+[1m>>> PROBING MACRO-NODE: EARTH[0m
+ Equivalent Node Count k: 3.57e+51
+ Surface Strain: 0.0000000014
+ Time Dilation:  0.9999999993
+ [92mGravity confirmed as Lattice Tension.[0m
+================================================================================
+ Report saved to 'Lattice_Curvature_Report.txt'

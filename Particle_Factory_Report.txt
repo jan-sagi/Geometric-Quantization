@@ -1,0 +1,33 @@
+=========================================================================================================
+ GEOMETRIC PARTICLE FACTORY
+=========================================================================================================
+ SCALING LAW: Lifetime ~ 1 / (k^4 * v^2)
+ ANCHOR:      Muon (k=1, v=0.17c, t=2.2e-6s)
+ GOAL:        Predict lifetime of heavier particles purely from k and v.
+---------------------------------------------------------------------------------------------------------
+ THEORY(MeV)  | SCALE    | k   | VELOCITY   | PRED. LIFE (s)     | REAL LIFE (s)      | MATCH?
+---------------------------------------------------------------------------------------------------------
+ 70.03        | MESON    | 1   | 0.206c     | 1.5e-06            | ???                | PREDICTION 
+ 104.12       | LEPTON   | 1   | 0.170c     | 2.2e-06            | 2.2e-06            | [GOOD] (Muon)
+ 140.05       | MESON    | 2   | 0.206c     | 9.4e-08            | 2.6e-08            | [GOOD] (Pion+)
+ 156.38       | BARYON   | 1   | 0.100c     | 6.4e-06            | ???                | PREDICTION 
+ 420.15       | MESON    | 6   | 0.206c     | 1.2e-09            | ???                | PREDICTION 
+ 490.18       | MESON    | 7   | 0.206c     | 6.3e-10            | 1.2e-08            | [GOOD] (Kaon+)
+ 624.70       | LEPTON   | 6   | 0.293c     | 5.7e-10            | ???                | PREDICTION 
+ 910.33       | MESON    | 13  | 0.206c     | 5.3e-11            | STABLE             |  (Proton)
+ 937.05       | LEPTON   | 9   | 0.356c     | 7.6e-11            | STABLE             |  (Proton)
+ 938.25       | BARYON   | 6   | 0.000c     | STABLE             | STABLE             | [EXACT] (Proton)
+ 1190.43      | MESON    | 17  | 0.206c     | 1.8e-11            | ???                | PREDICTION 
+ 1750.63      | MESON    | 25  | 0.206c     | 3.8e-12            | 2.9e-13            | [GOOD] (Tau)
+ 1769.98      | LEPTON   | 17  | 0.482c     | 3.3e-12            | 2.9e-13            | [GOOD] (Tau)
+ 1820.66      | MESON    | 26  | 0.206c     | 3.3e-12            | 2.9e-13            | [GOOD] (Tau)
+ 1874.09      | LEPTON   | 18  | 0.495c     | 2.5e-12            | 1.0e-12            | [GOOD] (D+)
+ 1876.51      | BARYON   | 12  | 0.000c     | STABLE             | 1.0e-12            |  (D+)
+ 1890.68      | MESON    | 27  | 0.206c     | 2.8e-12            | 1.0e-12            | [GOOD] (D+)
+ 2658.39      | BARYON   | 17  | 0.100c     | 7.6e-11            | ???                | PREDICTION 
+ 3019.37      | LEPTON   | 29  | 0.615c     | 2.4e-13            | 7.2e-21            | [DEVIATION] (J/Psi)
+ 3123.49      | LEPTON   | 30  | 0.624c     | 2.0e-13            | 7.2e-21            | [DEVIATION] (J/Psi)
+ 3127.51      | BARYON   | 20  | 0.100c     | 4.0e-11            | 7.2e-21            | [DEVIATION] (J/Psi)
+---------------------------------------------------------------------------------------------------------
+ NOTE: 'Prediction' implies a geometric node where a particle SHOULD exist.
+       [GOOD] means prediction is within 100x of reality (Standard Model varies by 10^30).

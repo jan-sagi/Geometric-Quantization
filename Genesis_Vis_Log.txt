@@ -1,0 +1,6 @@
+================================================================================
+ VISUALIZING THE GENESIS POINT (High Readability Mode)
+--------------------------------------------------------------------------------
+ Critical Distance found at: 0.008069 pm
+ Graph saved to: /home/jan/Desktop/MyUniverse/Genesis_Graph.png
+================================================================================

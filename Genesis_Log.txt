@@ -1,0 +1,105 @@
+[T+     0 Myr] >>> INICIALIZACE GEOMETRICKÉHO ČASOPROSTORU <<<
+[T+     0 Myr] Axiomy: PI=3.14159265..., ALPHA=1/137.036
+[T+     0 Myr] Vzniká primordiální mřížka...
+[T+     0 Myr] Nukleogeneze dokončena. Vzniklo 48 mlhovin. Celková hmotnost: 38156.6 Sol.
+[T+    50 Myr] Začíná gravitační kolaps (Epoch of Light)...
+[T+    50 Myr]    * Zážeh hvězdy! ID:4 (Blue Giant, Mass=592.6)
+[T+    50 Myr]    * Zážeh hvězdy! ID:5 (Blue Giant, Mass=926.5)
+[T+    50 Myr]    * Zážeh hvězdy! ID:7 (Blue Giant, Mass=653.6)
+[T+    50 Myr]    * Zážeh hvězdy! ID:8 (Blue Giant, Mass=535.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:10 (Blue Giant, Mass=589.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:11 (Blue Giant, Mass=897.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:12 (Blue Giant, Mass=979.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:13 (Blue Giant, Mass=793.2)
+[T+    50 Myr]    * Zážeh hvězdy! ID:14 (Blue Giant, Mass=932.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:18 (Blue Giant, Mass=846.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:20 (Blue Giant, Mass=626.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:22 (Blue Giant, Mass=643.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:26 (Blue Giant, Mass=832.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:29 (Blue Giant, Mass=795.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:30 (Blue Giant, Mass=950.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:31 (Blue Giant, Mass=502.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:34 (Blue Giant, Mass=884.2)
+[T+    50 Myr]    * Zážeh hvězdy! ID:35 (Blue Giant, Mass=842.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:38 (Blue Giant, Mass=971.7)
+[T+    50 Myr]    * Zážeh hvězdy! ID:39 (Blue Giant, Mass=716.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:41 (Blue Giant, Mass=694.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:42 (Blue Giant, Mass=939.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:44 (Blue Giant, Mass=993.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:45 (Blue Giant, Mass=937.5)
+[T+    50 Myr]    * Zážeh hvězdy! ID:55 (Blue Giant, Mass=592.6)
+[T+    50 Myr]    * Zážeh hvězdy! ID:56 (Blue Giant, Mass=926.5)
+[T+    50 Myr]    * Zážeh hvězdy! ID:58 (Blue Giant, Mass=653.6)
+[T+    50 Myr]    * Zážeh hvězdy! ID:59 (Blue Giant, Mass=535.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:61 (Blue Giant, Mass=589.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:62 (Blue Giant, Mass=897.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:63 (Blue Giant, Mass=979.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:64 (Blue Giant, Mass=793.2)
+[T+    50 Myr]    * Zážeh hvězdy! ID:65 (Blue Giant, Mass=932.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:69 (Blue Giant, Mass=846.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:71 (Blue Giant, Mass=626.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:73 (Blue Giant, Mass=643.4)
+[T+    50 Myr]    * Zážeh hvězdy! ID:77 (Blue Giant, Mass=832.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:80 (Blue Giant, Mass=795.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:81 (Blue Giant, Mass=950.3)
+[T+    50 Myr]    * Zážeh hvězdy! ID:82 (Blue Giant, Mass=502.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:85 (Blue Giant, Mass=884.2)
+[T+    50 Myr]    * Zážeh hvězdy! ID:86 (Blue Giant, Mass=842.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:89 (Blue Giant, Mass=971.7)
+[T+    50 Myr]    * Zážeh hvězdy! ID:90 (Blue Giant, Mass=716.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:92 (Blue Giant, Mass=694.0)
+[T+    50 Myr]    * Zážeh hvězdy! ID:93 (Blue Giant, Mass=939.9)
+[T+    50 Myr]    * Zážeh hvězdy! ID:95 (Blue Giant, Mass=993.8)
+[T+    50 Myr]    * Zážeh hvězdy! ID:96 (Blue Giant, Mass=937.5)
+[T+  1050 Myr] Hvězdná alchymie. Modří obři explodují a tvoří Uhlík a Kyslík...
+[T+  1050 Myr]    ! Supernova ID:4. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:5. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:7. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:8. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:10. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:11. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:12. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:13. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:14. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:18. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:20. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:22. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:26. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:29. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:30. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:31. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:34. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:35. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:38. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:39. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:41. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:42. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:44. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:45. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:55. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:56. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:58. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:59. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:61. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:62. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:63. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:64. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:65. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:69. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:71. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:73. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:77. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:80. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:81. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:82. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:85. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:86. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:89. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:90. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:92. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:93. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:95. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  1050 Myr]    ! Supernova ID:96. Obohacení okolí o těžké prvky (C, O, Fe).
+[T+  4050 Myr] Formování planetárních systémů z fraktálního prachu...
+[T+  5050 Myr] Hledání geometrické rezonance (Života)...
+[T+  5050 Myr]    ... Vesmír je zatím tichý. Geometrické podmínky nebyly splněny.

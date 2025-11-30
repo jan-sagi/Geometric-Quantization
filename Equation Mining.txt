@@ -1,0 +1,799 @@
+DIMENSIONALLY CORRECT EQUATIONS (dps=50)
+Sorted by: Target Variable -> Lowest Error
+------------------------------------------------------------------------------------------------------------------------
+1.600e-14 | Len: 11 | E_h        | sqrt_2 two ^ h * c R_inf * * one *
+1.600e-14 | Len: 09 | E_h        | h R_inf * half / c * one /
+2.580e-16 | Len: 11 | G_0        | one sqrt_3 sqrt_3 two one * * / R_K * /
+2.580e-16 | Len: 11 | G_0        | three half - half phi - two ^ / R_K /
+2.580e-16 | Len: 09 | G_0        | pi pi half one R_K / / * /
+2.580e-16 | Len: 09 | G_0        | one three phi * ^ half R_K * /
+4.509e-15 | Len: 09 | G_0        | e_charge phi_0 two one + three / / /
+7.511e-15 | Len: 05 | G_0        | one K_J * e_charge *
+7.511e-15 | Len: 07 | G_0        | three two - K_J * e_charge *
+7.511e-15 | Len: 11 | G_0        | K_J pi / e_charge * pi one one / * *
+1.176e-14 | Len: 09 | G_0        | K_J phi_0 one ^ half / * R_K /
+3.054e-12 | Len: 07 | G_0        | alpha two Z_0 two / / *
+3.054e-12 | Len: 09 | G_0        | three two - three + Z_0 / alpha *
+3.054e-12 | Len: 11 | G_0        | alpha three two half - / two + * Z_0 /
+7.511e-15 | Len: 09 | K_J        | G_0 e_charge / half one two / / ^
+7.511e-15 | Len: 07 | K_J        | sqrt_3 G_0 * e_charge sqrt_3 * /
+7.640e-15 | Len: 09 | K_J        | two R_K h * / half ^ sqrt_2 *
+7.769e-15 | Len: 09 | K_J        | three three e_charge * / R_K / two *
+9.186e-15 | Len: 07 | K_J        | three R_K e_charge * phi_0 + /
+1.202e-14 | Len: 05 | K_J        | three two - phi_0 /
+1.202e-14 | Len: 07 | K_J        | one two + three / phi_0 /
+1.202e-14 | Len: 07 | K_J        | one one pi ^ / phi_0 /
+1.202e-14 | Len: 07 | K_J        | three one * phi_0 / three /
+1.202e-14 | Len: 07 | K_J        | two one sqrt_3 ^ - phi_0 /
+1.202e-14 | Len: 07 | K_J        | one sqrt_3 phi * ^ phi_0 /
+1.202e-14 | Len: 11 | K_J        | three phi_0 / three half one - half / ^ *
+1.202e-14 | Len: 09 | K_J        | one three ^ phi_0 / two * half *
+1.202e-14 | Len: 09 | K_J        | sqrt_2 three sqrt_2 - two - + phi_0 /
+1.202e-14 | Len: 09 | K_J        | one half ^ pi ^ three ^ phi_0 /
+1.202e-14 | Len: 09 | K_J        | one three one / e_math - ^ phi_0 /
+1.202e-14 | Len: 05 | K_J        | sqrt_2 sqrt_2 phi_0 * /
+1.202e-14 | Len: 07 | K_J        | one pi phi - ^ phi_0 /
+1.202e-14 | Len: 07 | K_J        | sqrt_2 phi_0 / half half ^ *
+1.202e-14 | Len: 07 | K_J        | one half ^ sqrt_2 ^ phi_0 /
+1.202e-14 | Len: 07 | K_J        | three half ^ phi_0 sqrt_3 * /
+1.202e-14 | Len: 07 | K_J        | one e_math two + ^ phi_0 /
+1.202e-14 | Len: 07 | K_J        | three two - e_math ^ phi_0 /
+1.202e-14 | Len: 05 | K_J        | phi phi / phi_0 /
+1.202e-14 | Len: 07 | K_J        | one sqrt_2 pi / ^ phi_0 /
+1.202e-14 | Len: 09 | K_J        | two three half * * phi_0 / three /
+1.202e-14 | Len: 11 | K_J        | three sqrt_2 three - + phi_0 / half half ^ *
+1.202e-14 | Len: 07 | K_J        | sqrt_2 phi_0 / two sqrt_2 / /
+1.202e-14 | Len: 09 | K_J        | one half phi sqrt_2 ^ / ^ phi_0 /
+1.202e-14 | Len: 05 | K_J        | one sqrt_2 ^ phi_0 /
+1.202e-14 | Len: 07 | K_J        | sqrt_3 two ^ three phi_0 * /
+1.202e-14 | Len: 11 | K_J        | three half ^ phi_0 sqrt_3 * one pi ^ * /
+3.041e-12 | Len: 11 | K_J        | Z_0 two / phi_0 one * / alpha R_K * /
+3.061e-12 | Len: 11 | K_J        | two Z_0 / alpha two one / * e_charge / *
+3.974e-06 | Len: 11 | K_J        | pi pi mu_pe / / mu_pe alpha + phi_0 * /
+5.936e-05 | Len: 09 | K_J        | phi_0 g_e two alpha pi / + / ^
+5.963e-05 | Len: 11 | K_J        | G alpha one one ^ phi + ^ ^ phi_0 /
+2.580e-16 | Len: 07 | R_K        | two three - three + G_0 /
+2.580e-16 | Len: 05 | R_K        | one half G_0 * /
+2.580e-16 | Len: 05 | R_K        | one G_0 two / /
+2.580e-16 | Len: 05 | R_K        | one one + G_0 /
+2.580e-16 | Len: 05 | R_K        | sqrt_2 G_0 / sqrt_2 *
+2.580e-16 | Len: 09 | R_K        | sqrt_2 one G_0 / * one / sqrt_2 *
+2.580e-16 | Len: 07 | R_K        | three G_0 / three / half /
+2.580e-16 | Len: 09 | R_K        | two half / G_0 / one / two /
+2.580e-16 | Len: 09 | R_K        | two G_0 / half half + sqrt_2 ^ *
+2.580e-16 | Len: 07 | R_K        | two one phi ^ G_0 / *
+2.580e-16 | Len: 07 | R_K        | sqrt_3 sqrt_3 two - - G_0 /
+2.580e-16 | Len: 09 | R_K        | one pi ^ sqrt_2 sqrt_2 * G_0 / *
+2.580e-16 | Len: 09 | R_K        | one half half / phi ^ + G_0 /
+2.580e-16 | Len: 07 | R_K        | half G_0 one three + / /
+2.580e-16 | Len: 09 | R_K        | one pi three + ^ G_0 / half /
+2.580e-16 | Len: 07 | R_K        | e_math half e_math * G_0 * /
+2.580e-16 | Len: 07 | R_K        | three three + three / G_0 /
+2.580e-16 | Len: 09 | R_K        | two G_0 / one pi three * ^ /
+2.580e-16 | Len: 09 | R_K        | pi pi + one / G_0 pi * /
+2.580e-16 | Len: 09 | R_K        | one sqrt_3 ^ three ^ half G_0 * /
+2.580e-16 | Len: 11 | R_K        | one e_math ^ G_0 / half pi pi / * /
+2.580e-16 | Len: 07 | R_K        | sqrt_2 three one - ^ G_0 /
+2.580e-16 | Len: 11 | R_K        | one two sqrt_2 / ^ half one G_0 * * /
+2.580e-16 | Len: 11 | R_K        | half two G_0 half one phi ^ / * / *
+2.580e-16 | Len: 11 | R_K        | half G_0 one pi ^ / / two two * *
+2.580e-16 | Len: 07 | R_K        | three pi pi / - G_0 /
+2.580e-16 | Len: 07 | R_K        | one e_math ^ G_0 half * /
+2.580e-16 | Len: 09 | R_K        | two G_0 / one phi e_math - ^ /
+2.580e-16 | Len: 09 | R_K        | h one * e_charge three one - ^ /
+2.580e-16 | Len: 09 | R_K        | two G_0 one pi phi - ^ * /
+2.580e-16 | Len: 09 | R_K        | half half / phi ^ half / G_0 /
+2.580e-16 | Len: 07 | R_K        | one three + G_0 two * /
+2.580e-16 | Len: 09 | R_K        | half G_0 / two two three ^ / /
+2.580e-16 | Len: 05 | R_K        | three one - G_0 /
+2.580e-16 | Len: 05 | R_K        | sqrt_2 two ^ G_0 /
+2.580e-16 | Len: 07 | R_K        | one sqrt_2 ^ two G_0 / *
+2.580e-16 | Len: 09 | R_K        | one G_0 two pi - pi + / /
+2.580e-16 | Len: 09 | R_K        | sqrt_3 two ^ half / G_0 three * /
+2.580e-16 | Len: 07 | R_K        | phi phi + G_0 phi * /
+2.580e-16 | Len: 09 | R_K        | one sqrt_2 ^ e_math ^ half G_0 * /
+2.580e-16 | Len: 09 | R_K        | three G_0 / half / two one + /
+2.580e-16 | Len: 07 | R_K        | sqrt_3 sqrt_3 / G_0 / half /
+2.580e-16 | Len: 07 | R_K        | sqrt_2 half half ^ / G_0 /
+2.580e-16 | Len: 07 | R_K        | one phi phi / + G_0 /
+2.580e-16 | Len: 09 | R_K        | two pi pi / sqrt_2 ^ / G_0 /
+2.580e-16 | Len: 09 | R_K        | one half sqrt_3 ^ ^ two G_0 / *
+2.580e-16 | Len: 09 | R_K        | two G_0 one phi three * ^ / /
+2.580e-16 | Len: 11 | R_K        | three three / pi half pi * / G_0 / *
+2.580e-16 | Len: 11 | R_K        | half half / e_math pi / ^ G_0 / two *
+2.580e-16 | Len: 09 | R_K        | three pi pi / - one G_0 / *
+2.580e-16 | Len: 09 | R_K        | two G_0 one pi sqrt_3 / ^ ^ /
+2.580e-16 | Len: 09 | R_K        | sqrt_2 half / sqrt_2 / G_0 / one ^
+2.580e-16 | Len: 07 | R_K        | one e_math ^ two * G_0 /
+2.580e-16 | Len: 09 | R_K        | one sqrt_2 sqrt_3 * ^ G_0 two / /
+2.580e-16 | Len: 07 | R_K        | sqrt_3 sqrt_3 * one - G_0 /
+1.759e-15 | Len: 07 | R_K        | one K_J / phi_0 + e_charge /
+4.251e-15 | Len: 09 | R_K        | two three * e_charge phi_0 / three * /
+4.251e-15 | Len: 09 | R_K        | phi_0 e_charge / half / sqrt_2 sqrt_2 / /
+4.251e-15 | Len: 07 | R_K        | phi_0 sqrt_2 * sqrt_2 * e_charge /
+4.251e-15 | Len: 09 | R_K        | sqrt_2 phi_0 e_charge / * sqrt_2 * one *
+4.251e-15 | Len: 07 | R_K        | one half / e_charge phi_0 / /
+4.251e-15 | Len: 11 | R_K        | two phi_0 * half half + one / * e_charge /
+4.251e-15 | Len: 07 | R_K        | phi_0 e_charge / sqrt_2 two ^ *
+4.251e-15 | Len: 09 | R_K        | one e_math ^ half e_charge phi_0 / * /
+7.769e-15 | Len: 07 | R_K        | sqrt_2 K_J / sqrt_2 * e_charge /
+7.769e-15 | Len: 09 | R_K        | three half half + - K_J / e_charge /
+7.769e-15 | Len: 07 | R_K        | two K_J one * / e_charge /
+7.769e-15 | Len: 09 | R_K        | two sqrt_2 / two ^ K_J e_charge * /
+7.769e-15 | Len: 11 | R_K        | K_J two three - ^ one ^ half / e_charge /
+1.176e-14 | Len: 09 | R_K        | two K_J G_0 one phi_0 * / / *
+1.176e-14 | Len: 09 | R_K        | phi_0 phi_0 + K_J G_0 one * / *
+4.776e-13 | Len: 09 | R_K        | one a_0 * lambda_C pi Z_0 * / /
+6.363e-13 | Len: 09 | R_K        | lambda_C alpha pi r_e * / G_0 / *
+1.114e-12 | Len: 09 | R_K        | a_0 alpha Z_0 * half * * r_e /
+1.706e-12 | Len: 09 | R_K        | hbar mu_0 * half * r_e / m_e /
+3.010e-12 | Len: 09 | R_K        | one c / alpha two epsilon_0 * * /
+3.010e-12 | Len: 07 | R_K        | half c / epsilon_0 / alpha /
+3.053e-12 | Len: 05 | R_K        | Z_0 half * alpha /
+3.053e-12 | Len: 07 | R_K        | Z_0 one half alpha / * *
+3.053e-12 | Len: 11 | R_K        | pi one Z_0 alpha / * * pi pi + /
+3.053e-12 | Len: 11 | R_K        | one alpha / mu_0 one half / / * c *
+3.053e-12 | Len: 09 | R_K        | mu_0 c alpha / * one one + /
+3.053e-12 | Len: 11 | R_K        | hbar pi * one Z_0 h alpha * / * *
+3.053e-12 | Len: 09 | R_K        | Z_0 alpha half / / half two * *
+3.053e-12 | Len: 07 | R_K        | mu_0 c alpha / half * *
+3.053e-12 | Len: 07 | R_K        | Z_0 three alpha * alpha - /
+3.053e-12 | Len: 11 | R_K        | pi alpha two * Z_0 one pi / * / /
+3.053e-12 | Len: 09 | R_K        | Z_0 one e_math ^ half * alpha / *
+6.107e-12 | Len: 07 | R_K        | Z_0 alpha / two G_0 / -
+7.771e-07 | Len: 09 | R_K        | two alpha e_math ^ - G_0 one ^ /
+3.974e-06 | Len: 09 | R_K        | mu_pe alpha + G_0 mu_pe * two / /
+5.070e-06 | Len: 09 | R_K        | pi phi / G_0 / two Z_0 * +
+7.943e-06 | Len: 11 | R_K        | two G_0 / Z_0 mu_pe e_math + sqrt_2 - / +
+1.331e-05 | Len: 09 | R_K        | one R_inf lambda_C * * two + G_0 /
+1.331e-05 | Len: 09 | R_K        | r_e a_0 / two / two + G_0 /
+1.883e-05 | Len: 09 | R_K        | lambda_C R_inf * sqrt_2 + G_0 / sqrt_2 *
+4.311e-05 | Len: 11 | R_K        | one pi sqrt_2 a_0 r_e / / ^ + G_0 /
+5.325e-05 | Len: 09 | R_K        | a_0 G_0 / half / a_0 r_e - /
+6.808e-05 | Len: 11 | R_K        | two half / half mu_pe / + two / G_0 /
+6.894e-05 | Len: 09 | R_K        | sqrt_2 g_p / mu_pe / two + G_0 /
+8.668e-05 | Len: 09 | R_K        | two one mu_pe / pi / + G_0 /
+1.600e-14 | Len: 09 | R_inf      | mu_0 half * E_h * h / Z_0 /
+1.600e-14 | Len: 11 | R_inf      | E_h c / two * h three one + * /
+8.740e-13 | Len: 09 | R_inf      | alpha a_0 pi * / three one + /
+1.511e-12 | Len: 09 | R_inf      | r_e a_0 / two / one lambda_C * /
+1.511e-12 | Len: 11 | R_inf      | half three / three a_0 / lambda_C r_e / / *
+1.511e-12 | Len: 09 | R_inf      | r_e lambda_C / half * one ^ a_0 /
+3.450e-12 | Len: 07 | R_inf      | alpha sqrt_2 / two ^ lambda_C /
+3.450e-12 | Len: 09 | R_inf      | alpha alpha one one + lambda_C * / *
+3.450e-12 | Len: 09 | R_inf      | alpha sqrt_2 / alpha lambda_C sqrt_2 * / *
+3.450e-12 | Len: 09 | R_inf      | alpha three one - ^ two / lambda_C /
+3.450e-12 | Len: 11 | R_inf      | half lambda_C alpha half three two / + ^ / /
+3.450e-12 | Len: 09 | R_inf      | alpha alpha * lambda_C / three one - /
+3.450e-12 | Len: 09 | R_inf      | alpha alpha * lambda_C two * one * /
+3.450e-12 | Len: 09 | R_inf      | one alpha * alpha half lambda_C / * *
+3.450e-12 | Len: 11 | R_inf      | half half ^ alpha sqrt_2 / alpha lambda_C / * *
+3.450e-12 | Len: 09 | R_inf      | half alpha two ^ * one ^ lambda_C /
+0.000e+00 | Len: 05 | Z_0        | mu_0 one ^ c *
+0.000e+00 | Len: 09 | Z_0        | mu_0 c * one half pi - ^ ^
+0.000e+00 | Len: 09 | Z_0        | mu_0 c * sqrt_2 half half - ^ /
+0.000e+00 | Len: 11 | Z_0        | c mu_0 one pi half e_math - + ^ * *
+0.000e+00 | Len: 11 | Z_0        | m_Pl G m_Pl hbar / * * one mu_0 / /
+0.000e+00 | Len: 09 | Z_0        | half one / half + c * mu_0 *
+0.000e+00 | Len: 09 | Z_0        | c mu_0 * one two sqrt_2 / ^ /
+0.000e+00 | Len: 11 | Z_0        | three one + two - half c * * mu_0 *
+0.000e+00 | Len: 07 | Z_0        | c mu_0 * half half + ^
+0.000e+00 | Len: 09 | Z_0        | two one / two mu_0 c * / /
+0.000e+00 | Len: 07 | Z_0        | pi c pi / * mu_0 *
+0.000e+00 | Len: 11 | Z_0        | two pi half pi mu_0 c * / / * *
+0.000e+00 | Len: 09 | Z_0        | c mu_0 * pi one ^ pi / ^
+0.000e+00 | Len: 09 | Z_0        | c mu_0 * three two one * - /
+0.000e+00 | Len: 09 | Z_0        | one half phi + ^ mu_0 c * *
+1.816e-51 | Len: 09 | Z_0        | G m_Pl two ^ mu_0 * * hbar /
+1.816e-51 | Len: 09 | Z_0        | sqrt_2 two ^ half mu_0 * * c *
+1.202e-14 | Len: 11 | Z_0        | mu_0 c * K_J half phi_0 half * / / *
+2.174e-14 | Len: 05 | Z_0        | mu_0 epsilon_0 / half ^
+2.174e-14 | Len: 07 | Z_0        | mu_0 epsilon_0 / half one * ^
+4.322e-14 | Len: 09 | Z_0        | R_K half * epsilon_0 G_0 c / / /
+4.348e-14 | Len: 09 | Z_0        | two two / e_math ^ c epsilon_0 * /
+4.348e-14 | Len: 09 | Z_0        | three two one + / epsilon_0 c * /
+4.348e-14 | Len: 07 | Z_0        | sqrt_2 epsilon_0 c sqrt_2 * * /
+4.348e-14 | Len: 11 | Z_0        | half half * three three - ^ c / epsilon_0 /
+4.348e-14 | Len: 07 | Z_0        | three epsilon_0 c three * * /
+4.348e-14 | Len: 09 | Z_0        | one one + c two * epsilon_0 * /
+2.820e-12 | Len: 09 | Z_0        | mu_0 m_e alpha * / a_0 hbar / /
+3.010e-12 | Len: 09 | Z_0        | half alpha R_K * epsilon_0 mu_0 / * /
+3.041e-12 | Len: 09 | Z_0        | phi_0 alpha R_K K_J * * half / *
+3.046e-12 | Len: 11 | Z_0        | R_K K_J * one * alpha * h * e_charge /
+3.049e-12 | Len: 09 | Z_0        | two phi_0 * half / e_charge / alpha *
+3.049e-12 | Len: 09 | Z_0        | alpha phi_0 phi_0 + half e_charge * / *
+3.049e-12 | Len: 11 | Z_0        | phi_0 two e_charge alpha / two one / / / *
+3.053e-12 | Len: 07 | Z_0        | R_K alpha * G_0 R_K * *
+3.053e-12 | Len: 05 | Z_0        | alpha alpha + R_K *
+3.053e-12 | Len: 05 | Z_0        | alpha R_K two * *
+3.053e-12 | Len: 07 | Z_0        | R_K R_K + alpha one ^ *
+3.053e-12 | Len: 09 | Z_0        | two R_K alpha one ^ * one / *
+3.053e-12 | Len: 09 | Z_0        | alpha half / phi * R_K phi / *
+3.053e-12 | Len: 09 | Z_0        | alpha two * phi phi - - R_K *
+3.053e-12 | Len: 09 | Z_0        | sqrt_2 R_K one alpha * * * sqrt_2 *
+3.053e-12 | Len: 09 | Z_0        | alpha hbar R_K / pi * / h *
+3.053e-12 | Len: 09 | Z_0        | alpha pi / two * pi R_K * *
+3.053e-12 | Len: 07 | Z_0        | R_K alpha sqrt_2 two ^ * *
+3.053e-12 | Len: 11 | Z_0        | alpha R_K three one half e_math ^ ^ - * *
+3.053e-12 | Len: 09 | Z_0        | alpha R_K e_math / * half e_math / /
+3.053e-12 | Len: 09 | Z_0        | two alpha R_K * * one e_math ^ *
+3.053e-12 | Len: 11 | Z_0        | two R_K * one pi sqrt_2 ^ ^ / alpha *
+3.053e-12 | Len: 07 | Z_0        | R_K alpha sqrt_2 * * sqrt_2 *
+3.053e-12 | Len: 11 | Z_0        | R_K alpha * one pi ^ two half * + *
+3.053e-12 | Len: 09 | Z_0        | alpha e_math / R_K two e_math * * *
+3.053e-12 | Len: 11 | Z_0        | R_K alpha * two two half * one / / *
+3.053e-12 | Len: 11 | Z_0        | R_K two one alpha / * one three + / /
+3.053e-12 | Len: 09 | Z_0        | R_K alpha * three one + half * *
+3.053e-12 | Len: 09 | Z_0        | alpha three half * / R_K three * *
+3.053e-12 | Len: 11 | Z_0        | alpha sqrt_3 two ^ three - + alpha + R_K *
+3.053e-12 | Len: 09 | Z_0        | R_K alpha * three * three / two *
+3.053e-12 | Len: 11 | Z_0        | one R_K * half alpha / pi * / pi *
+3.053e-12 | Len: 09 | Z_0        | R_K half / alpha sqrt_2 sqrt_2 / ^ *
+3.053e-12 | Len: 09 | Z_0        | R_K three two half * - alpha * *
+3.053e-12 | Len: 09 | Z_0        | R_K alpha one sqrt_3 ^ / two * *
+3.054e-12 | Len: 11 | Z_0        | sqrt_2 alpha two * G_0 half half ^ * / *
+3.054e-12 | Len: 07 | Z_0        | alpha half half * G_0 * /
+3.054e-12 | Len: 09 | Z_0        | alpha half one G_0 * half * * /
+3.054e-12 | Len: 11 | Z_0        | one half ^ three + alpha * one G_0 * /
+3.054e-12 | Len: 07 | Z_0        | alpha half two / / G_0 /
+3.054e-12 | Len: 07 | Z_0        | alpha alpha three * + G_0 /
+3.054e-12 | Len: 11 | Z_0        | phi two alpha G_0 / half phi * / * *
+3.054e-12 | Len: 11 | Z_0        | two two * G_0 one / / one alpha * *
+3.054e-12 | Len: 11 | Z_0        | pi pi + alpha half / * G_0 / pi /
+3.054e-12 | Len: 07 | Z_0        | alpha one three + G_0 / *
+3.054e-12 | Len: 09 | Z_0        | one two alpha * * half G_0 * /
+3.054e-12 | Len: 11 | Z_0        | alpha half three G_0 three / * half * * /
+3.054e-12 | Len: 09 | Z_0        | two alpha * G_0 three one - / /
+3.054e-12 | Len: 11 | Z_0        | one pi - three pi + + alpha * G_0 /
+3.061e-12 | Len: 09 | Z_0        | alpha e_charge K_J * two two * / /
+3.061e-12 | Len: 09 | Z_0        | alpha e_charge / K_J / half / half /
+4.993e-12 | Len: 09 | Z_0        | r_e two mu_B phi_0 / c / / *
+5.396e-12 | Len: 11 | Z_0        | half half + lambda_C m_e h / mu_0 / * /
+4.448e-07 | Len: 11 | Z_0        | alpha R_K half pi alpha three ^ ^ / / *
+1.327e-05 | Len: 11 | Z_0        | alpha two * alpha pi ^ - G_0 half * /
+8.740e-13 | Len: 11 | a_0        | one half * R_inf / pi / alpha * two /
+8.740e-13 | Len: 11 | a_0        | alpha pi R_inf * one / / two two * /
+8.900e-13 | Len: 09 | a_0        | G alpha m_Pl two ^ * * E_h /
+8.900e-13 | Len: 07 | a_0        | alpha c * E_h / hbar *
+8.900e-13 | Len: 09 | a_0        | m_Pl alpha m_Pl E_h G / / * *
+8.900e-13 | Len: 11 | a_0        | alpha hbar * E_h / half / c * two /
+8.900e-13 | Len: 09 | a_0        | alpha c * E_h / hbar * one ^
+1.114e-12 | Len: 09 | a_0        | r_e Z_0 alpha * R_K two * / /
+1.939e-12 | Len: 11 | a_0        | r_e half / alpha * two alpha three ^ * /
+1.939e-12 | Len: 11 | a_0        | two two / one / alpha r_e alpha / / /
+1.939e-12 | Len: 11 | a_0        | half r_e two * * one alpha alpha * / *
+1.939e-12 | Len: 11 | a_0        | r_e one three / / alpha / three alpha * /
+1.939e-12 | Len: 11 | a_0        | r_e one alpha half / alpha * half * * /
+1.939e-12 | Len: 07 | a_0        | r_e one * alpha / alpha /
+1.939e-12 | Len: 11 | a_0        | r_e alpha alpha * half e_math e_math - ^ / /
+1.942e-12 | Len: 07 | a_0        | r_e alpha G_0 R_K * ^ /
+2.576e-12 | Len: 11 | a_0        | lambda_C alpha / pi pi e_math / e_math * + /
+2.576e-12 | Len: 11 | a_0        | lambda_C alpha three one - pi one / * * /
+6.936e-12 | Len: 11 | a_0        | mu_0 e_charge mu_B / R_K * / alpha alpha * /
+5.325e-05 | Len: 11 | a_0        | r_e lambda_C two / alpha pi one * * / +
+9.223e-05 | Len: 09 | a_0        | alpha one three - ^ sqrt_3 - r_e *
+0.000e+00 | Len: 09 | c          | half Z_0 * one mu_0 two / * /
+0.000e+00 | Len: 11 | c          | Z_0 mu_0 / one three two e_math ^ * ^ ^
+0.000e+00 | Len: 09 | c          | Z_0 mu_0 one two pi + ^ / /
+0.000e+00 | Len: 07 | c          | m_Pl hbar / G m_Pl * *
+0.000e+00 | Len: 07 | c          | two mu_0 / Z_0 two / *
+0.000e+00 | Len: 07 | c          | e_math e_math Z_0 / / mu_0 /
+0.000e+00 | Len: 07 | c          | Z_0 half / mu_0 / two /
+0.000e+00 | Len: 09 | c          | one pi e_math + ^ Z_0 mu_0 / *
+0.000e+00 | Len: 07 | c          | sqrt_3 sqrt_3 mu_0 * Z_0 / /
+0.000e+00 | Len: 11 | c          | three mu_0 one sqrt_3 Z_0 sqrt_3 / / / / /
+0.000e+00 | Len: 07 | c          | Z_0 mu_0 / one phi ^ ^
+0.000e+00 | Len: 09 | c          | two one - e_math ^ mu_0 Z_0 / /
+2.393e-51 | Len: 09 | c          | G m_Pl two ^ hbar one * / *
+2.393e-51 | Len: 07 | c          | G m_Pl two ^ * hbar /
+1.202e-14 | Len: 07 | c          | K_J mu_0 / Z_0 phi_0 * *
+1.600e-14 | Len: 09 | c          | one E_h * R_inf / h / two /
+1.600e-14 | Len: 11 | c          | E_h R_inf three two - half h / / * /
+2.174e-14 | Len: 07 | c          | one epsilon_0 mu_0 * / half ^
+2.174e-14 | Len: 09 | c          | three two - mu_0 epsilon_0 * half ^ /
+2.174e-14 | Len: 09 | c          | three three mu_0 epsilon_0 * half ^ * /
+3.146e-14 | Len: 07 | c          | phi_0 epsilon_0 / Z_0 K_J / /
+4.348e-14 | Len: 05 | c          | one Z_0 / epsilon_0 /
+4.348e-14 | Len: 07 | c          | half two epsilon_0 Z_0 * / *
+4.348e-14 | Len: 09 | c          | half epsilon_0 half * / Z_0 one / /
+4.348e-14 | Len: 07 | c          | one sqrt_2 ^ Z_0 / epsilon_0 /
+4.348e-14 | Len: 07 | c          | one three ^ Z_0 epsilon_0 * /
+4.348e-14 | Len: 11 | c          | one three pi two / * ^ Z_0 epsilon_0 * /
+4.348e-14 | Len: 11 | c          | pi pi three three Z_0 epsilon_0 * * / / /
+4.348e-14 | Len: 07 | c          | two Z_0 epsilon_0 two * * /
+4.348e-14 | Len: 09 | c          | half two * epsilon_0 one / Z_0 * /
+4.348e-14 | Len: 09 | c          | one e_math ^ Z_0 / one / epsilon_0 /
+4.348e-14 | Len: 11 | c          | two epsilon_0 Z_0 h * * / hbar * pi *
+4.348e-14 | Len: 09 | c          | sqrt_3 one epsilon_0 Z_0 * sqrt_3 * * /
+4.348e-14 | Len: 07 | c          | pi pi / epsilon_0 Z_0 * /
+4.348e-14 | Len: 07 | c          | sqrt_3 epsilon_0 / Z_0 sqrt_3 * /
+4.348e-14 | Len: 11 | c          | two Z_0 half * / epsilon_0 / three one + /
+4.348e-14 | Len: 07 | c          | Z_0 epsilon_0 * two three - ^
+1.527e-12 | Len: 09 | c          | E_h r_e / a_0 * lambda_C * h /
+1.944e-12 | Len: 09 | c          | mu_B r_e e_charge * two / alpha / /
+1.944e-12 | Len: 09 | c          | mu_B half r_e e_charge * * / alpha *
+2.820e-12 | Len: 09 | c          | hbar one alpha m_e a_0 * * / *
+2.820e-12 | Len: 11 | c          | pi hbar * a_0 alpha m_e pi * * * /
+2.820e-12 | Len: 11 | c          | hbar alpha / a_0 m_e half two * ^ * /
+3.010e-12 | Len: 11 | c          | one alpha / epsilon_0 / one R_K * / half *
+3.010e-12 | Len: 09 | c          | half G_0 * alpha / epsilon_0 two * /
+3.010e-12 | Len: 09 | c          | G_0 alpha alpha + epsilon_0 half / * /
+3.010e-12 | Len: 09 | c          | G_0 epsilon_0 two alpha alpha + * * /
+3.053e-12 | Len: 07 | c          | R_K alpha alpha + mu_0 / *
+3.053e-12 | Len: 11 | c          | R_K alpha mu_0 three / / * three two / /
+3.053e-12 | Len: 11 | c          | alpha two R_K * * one / mu_0 one / /
+3.053e-12 | Len: 09 | c          | R_K mu_0 / three one - * alpha *
+3.053e-12 | Len: 11 | c          | two half * one + R_K alpha mu_0 / * *
+3.054e-12 | Len: 09 | c          | two mu_0 / alpha * half G_0 * /
+3.054e-12 | Len: 11 | c          | one half / G_0 half mu_0 * * / alpha *
+3.879e-12 | Len: 09 | c          | R_K alpha mu_B / / a_0 / phi_0 /
+3.883e-12 | Len: 09 | c          | two alpha mu_B a_0 / e_charge / / /
+4.759e-12 | Len: 07 | c          | alpha m_e hbar / / r_e /
+5.391e-12 | Len: 11 | c          | one phi_0 m_e / lambda_C e_charge / half * / *
+5.396e-12 | Len: 09 | c          | h three three lambda_C m_e * / / /
+5.396e-12 | Len: 11 | c          | h three three one / / * m_e / lambda_C /
+5.396e-12 | Len: 07 | c          | h one m_e lambda_C * * /
+1.554e-06 | Len: 09 | c          | Z_0 mu_0 one alpha e_math ^ + / /
+0.000e+00 | Len: 09 | e_charge   | pi G_0 one / * hbar * half ^
+1.290e-16 | Len: 07 | e_charge   | h R_K / one * half ^
+1.501e-15 | Len: 07 | e_charge   | h one K_J / phi_0 + /
+3.993e-15 | Len: 07 | e_charge   | phi_0 R_K one G_0 / - /
+4.251e-15 | Len: 09 | e_charge   | phi_0 one half + three / / R_K /
+4.251e-15 | Len: 07 | e_charge   | phi_0 one one + * R_K /
+4.251e-15 | Len: 11 | e_charge   | sqrt_3 three / sqrt_3 R_K / * phi_0 two * *
+4.251e-15 | Len: 09 | e_charge   | phi_0 R_K / three two / half + *
+4.251e-15 | Len: 11 | e_charge   | one pi R_K pi phi_0 half / * / * /
+4.251e-15 | Len: 11 | e_charge   | phi_0 one pi ^ * two R_K one / / *
+4.251e-15 | Len: 07 | e_charge   | three one - R_K / phi_0 *
+4.251e-15 | Len: 09 | e_charge   | three R_K three * half phi_0 / * /
+4.251e-15 | Len: 07 | e_charge   | two one / phi_0 R_K / *
+4.251e-15 | Len: 11 | e_charge   | one half sqrt_2 - ^ two R_K phi_0 / / *
+4.251e-15 | Len: 09 | e_charge   | phi_0 R_K / sqrt_3 / two * sqrt_3 *
+4.251e-15 | Len: 11 | e_charge   | one two three / ^ phi_0 R_K half * / *
+4.251e-15 | Len: 11 | e_charge   | one R_K / three / three * phi_0 two * *
+4.251e-15 | Len: 11 | e_charge   | phi_0 sqrt_3 * R_K / half / three / sqrt_3 *
+4.251e-15 | Len: 09 | e_charge   | phi phi_0 * phi / half / R_K /
+4.506e-15 | Len: 09 | e_charge   | h three K_J / phi_0 + two / /
+4.509e-15 | Len: 05 | e_charge   | G_0 phi_0 one ^ *
+4.509e-15 | Len: 09 | e_charge   | three three phi_0 / G_0 / one / /
+4.509e-15 | Len: 07 | e_charge   | phi_0 G_0 * one half ^ *
+4.509e-15 | Len: 07 | e_charge   | phi_0 G_0 sqrt_3 * sqrt_3 / *
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 * one phi one + ^ /
+4.509e-15 | Len: 11 | e_charge   | one pi two half + ^ ^ phi_0 G_0 * *
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 one three e_math * ^ ^ *
+4.509e-15 | Len: 11 | e_charge   | phi_0 one half sqrt_2 / half - ^ G_0 * *
+4.509e-15 | Len: 07 | e_charge   | phi G_0 * phi_0 * phi /
+4.509e-15 | Len: 09 | e_charge   | G_0 phi_0 three three / e_math ^ / *
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 * one three sqrt_3 + ^ *
+4.509e-15 | Len: 09 | e_charge   | phi_0 sqrt_2 sqrt_2 / two ^ * G_0 *
+4.509e-15 | Len: 07 | e_charge   | one two ^ phi_0 * G_0 *
+4.509e-15 | Len: 07 | e_charge   | three G_0 * phi_0 * three /
+4.509e-15 | Len: 07 | e_charge   | phi_0 G_0 * e_math e_math / /
+4.509e-15 | Len: 07 | e_charge   | G_0 phi_0 three two - ^ *
+4.509e-15 | Len: 09 | e_charge   | G_0 one two sqrt_2 * ^ phi_0 / /
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 one ^ * two half * /
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 * two half * e_math ^ ^
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 one phi three / ^ * *
+4.509e-15 | Len: 09 | e_charge   | one e_math pi / ^ G_0 * phi_0 *
+4.509e-15 | Len: 09 | e_charge   | G_0 phi_0 * one e_math two / ^ *
+4.509e-15 | Len: 11 | e_charge   | phi_0 G_0 * one one half - pi ^ ^ /
+4.509e-15 | Len: 09 | e_charge   | phi_0 G_0 one pi two ^ ^ ^ *
+4.509e-15 | Len: 11 | e_charge   | three G_0 * phi_0 two three / * * half *
+4.509e-15 | Len: 07 | e_charge   | phi_0 G_0 * one sqrt_2 ^ /
+4.509e-15 | Len: 07 | e_charge   | h phi_0 / one half * *
+4.509e-15 | Len: 11 | e_charge   | two one + hbar pi three / * phi_0 / *
+4.509e-15 | Len: 09 | e_charge   | three three / hbar pi phi_0 / * *
+4.509e-15 | Len: 11 | e_charge   | h phi_0 two pi one one - * - * /
+4.509e-15 | Len: 11 | e_charge   | h phi_0 / two one three ^ half ^ / /
+4.509e-15 | Len: 09 | e_charge   | h three two - phi_0 half / / *
+4.509e-15 | Len: 11 | e_charge   | half one pi * phi_0 h / * pi / /
+4.509e-15 | Len: 07 | e_charge   | h phi_0 / three one - /
+4.509e-15 | Len: 11 | e_charge   | one phi three - ^ phi_0 / h half * *
+4.764e-15 | Len: 09 | e_charge   | half phi_0 three K_J / + * R_K /
+7.511e-15 | Len: 11 | e_charge   | K_J h three * half * * two one + /
+7.511e-15 | Len: 09 | e_charge   | pi hbar K_J one three ^ / * *
+7.511e-15 | Len: 09 | e_charge   | one three ^ half - h * K_J *
+7.511e-15 | Len: 09 | e_charge   | sqrt_2 K_J h two sqrt_2 * / * *
+7.511e-15 | Len: 09 | e_charge   | one sqrt_3 ^ h * two K_J / /
+7.511e-15 | Len: 09 | e_charge   | one pi ^ h K_J * * half *
+7.511e-15 | Len: 09 | e_charge   | hbar K_J * phi phi pi * / /
+7.511e-15 | Len: 09 | e_charge   | one sqrt_2 ^ two K_J / h / /
+7.511e-15 | Len: 09 | e_charge   | hbar pi * K_J * two one - *
+7.511e-15 | Len: 09 | e_charge   | K_J half * three h / three / /
+7.511e-15 | Len: 11 | e_charge   | K_J half * pi hbar * two * * one ^
+7.511e-15 | Len: 09 | e_charge   | half K_J * h one two - ^ /
+7.511e-15 | Len: 09 | e_charge   | three hbar three K_J pi * / / *
+7.511e-15 | Len: 07 | e_charge   | G_0 K_J one two - ^ *
+7.511e-15 | Len: 07 | e_charge   | e_math e_math K_J * / G_0 *
+7.511e-15 | Len: 07 | e_charge   | phi K_J phi G_0 / * /
+7.511e-15 | Len: 09 | e_charge   | sqrt_3 K_J three sqrt_3 / * / G_0 *
+7.511e-15 | Len: 11 | e_charge   | G_0 pi three * / pi three * K_J / *
+7.511e-15 | Len: 09 | e_charge   | three one / two - G_0 * K_J /
+7.511e-15 | Len: 07 | e_charge   | one phi ^ G_0 * K_J /
+7.511e-15 | Len: 09 | e_charge   | one three three - - G_0 * K_J /
+7.511e-15 | Len: 11 | e_charge   | three K_J three G_0 half half + ^ / * /
+7.511e-15 | Len: 11 | e_charge   | G_0 one pi two one - - ^ K_J / *
+7.511e-15 | Len: 07 | e_charge   | G_0 K_J / sqrt_2 / sqrt_2 *
+7.511e-15 | Len: 07 | e_charge   | G_0 one half ^ * K_J /
+7.511e-15 | Len: 07 | e_charge   | one sqrt_3 ^ K_J G_0 / /
+7.511e-15 | Len: 07 | e_charge   | three three K_J G_0 / * /
+7.511e-15 | Len: 07 | e_charge   | G_0 K_J / one e_math ^ /
+7.511e-15 | Len: 09 | e_charge   | G_0 K_J sqrt_2 two ^ half * ^ /
+7.769e-15 | Len: 11 | e_charge   | one pi sqrt_2 + ^ two * K_J / R_K /
+7.769e-15 | Len: 09 | e_charge   | R_K two three - ^ K_J / half /
+7.769e-15 | Len: 07 | e_charge   | one one + R_K K_J * /
+7.769e-15 | Len: 07 | e_charge   | one K_J R_K half * * /
+7.769e-15 | Len: 07 | e_charge   | three one - K_J / R_K /
+7.769e-15 | Len: 09 | e_charge   | sqrt_2 R_K sqrt_2 K_J half * * * /
+7.769e-15 | Len: 09 | e_charge   | sqrt_3 K_J R_K half * sqrt_3 * * /
+7.769e-15 | Len: 09 | e_charge   | one three ^ half / R_K K_J * /
+7.769e-15 | Len: 11 | e_charge   | half K_J R_K * one two one + + / /
+7.769e-15 | Len: 11 | e_charge   | two R_K / one / K_J / one three ^ ^
+7.769e-15 | Len: 11 | e_charge   | one two * K_J / pi R_K pi / * /
+1.527e-12 | Len: 09 | e_charge   | alpha alpha + h * Z_0 / half ^
+1.944e-12 | Len: 11 | e_charge   | mu_B alpha c / * r_e / one ^ two *
+3.046e-12 | Len: 11 | e_charge   | Z_0 alpha / R_K K_J * / R_K one * /
+3.049e-12 | Len: 09 | e_charge   | phi_0 alpha Z_0 / one three + * *
+3.049e-12 | Len: 09 | e_charge   | two alpha * two Z_0 / phi_0 * *
+3.058e-12 | Len: 09 | e_charge   | alpha Z_0 h / / phi_0 R_K / /
+3.061e-12 | Len: 09 | e_charge   | alpha one three + * K_J / Z_0 /
+3.061e-12 | Len: 09 | e_charge   | alpha Z_0 K_J half two ^ * * /
+4.997e-12 | Len: 07 | e_charge   | mu_0 r_e R_K mu_B / * /
+4.997e-12 | Len: 11 | e_charge   | one r_e G_0 / / mu_0 * mu_B two / *
+5.391e-12 | Len: 09 | e_charge   | half m_e phi_0 lambda_C c * / / *
+6.703e-12 | Len: 07 | e_charge   | two m_e * hbar mu_B / /
+6.703e-12 | Len: 09 | e_charge   | two hbar / one ^ m_e * mu_B *
+6.703e-12 | Len: 09 | e_charge   | m_e one hbar half mu_B / * / *
+6.703e-12 | Len: 07 | e_charge   | mu_B mu_B + m_e hbar / *
+7.771e-07 | Len: 09 | e_charge   | h phi_0 two alpha e_math ^ + * /
+2.755e-06 | Len: 09 | e_charge   | G_0 phi_0 half alpha mu_pe / ^ / *
+3.974e-06 | Len: 09 | e_charge   | mu_pe mu_pe alpha + G_0 K_J / / /
+3.974e-06 | Len: 11 | e_charge   | K_J mu_pe * mu_pe alpha + h / / half *
+3.974e-06 | Len: 11 | e_charge   | alpha one / mu_pe / one + K_J G_0 / /
+1.694e-05 | Len: 09 | e_charge   | G_0 phi_0 g_e three + alpha ^ / *
+7.398e-05 | Len: 11 | e_charge   | m_p u / G_0 * one alpha - * phi_0 *
+3.597e-14 | Len: 11 | epsilon_0  | hbar Z_0 / K_J * c e_charge pi / * /
+4.348e-14 | Len: 05 | epsilon_0  | mu_0 Z_0 two ^ /
+4.348e-14 | Len: 07 | epsilon_0  | one pi ^ c Z_0 * /
+4.348e-14 | Len: 07 | epsilon_0  | one phi ^ c Z_0 * /
+4.348e-14 | Len: 09 | epsilon_0  | mu_0 Z_0 three ^ / c / half ^
+4.348e-14 | Len: 07 | epsilon_0  | phi phi / c / Z_0 /
+4.348e-14 | Len: 09 | epsilon_0  | mu_0 Z_0 two e_math e_math / / ^ /
+4.348e-14 | Len: 09 | epsilon_0  | one c * one three - ^ mu_0 /
+4.348e-14 | Len: 07 | epsilon_0  | one mu_0 c two ^ * /
+4.348e-14 | Len: 07 | epsilon_0  | one Z_0 / Z_0 / mu_0 *
+4.348e-14 | Len: 07 | epsilon_0  | one c / c / mu_0 /
+4.348e-14 | Len: 07 | epsilon_0  | half half + c / Z_0 /
+4.348e-14 | Len: 11 | epsilon_0  | one one three pi ^ ^ / Z_0 / c /
+4.348e-14 | Len: 07 | epsilon_0  | c mu_0 / c three ^ /
+4.348e-14 | Len: 09 | epsilon_0  | mu_0 Z_0 half * / two Z_0 * /
+4.348e-14 | Len: 07 | epsilon_0  | mu_0 Z_0 Z_0 three ^ / *
+4.348e-14 | Len: 07 | epsilon_0  | e_math e_math / c Z_0 * /
+4.556e-13 | Len: 11 | epsilon_0  | e_charge two ^ lambda_C / E_h / half alpha * *
+1.887e-12 | Len: 09 | epsilon_0  | alpha E_h m_e mu_0 alpha / / / /
+3.010e-12 | Len: 09 | epsilon_0  | G_0 c / alpha three one + * /
+3.018e-12 | Len: 11 | epsilon_0  | e_charge c three alpha * alpha + * K_J / /
+3.104e-06 | Len: 07 | g_e        | lambda_C half r_e lambda_C - * /
+1.984e-05 | Len: 09 | g_e        | alpha three sqrt_3 * g_p three - / -
+7.979e-05 | Len: 11 | g_e        | one pi * e_math - one + alpha sqrt_2 - *
+1.643e-05 | Len: 07 | g_p        | one three sqrt_2 - + three +
+1.643e-05 | Len: 07 | g_p        | two two ^ sqrt_2 three - -
+1.643e-05 | Len: 07 | g_p        | one sqrt_2 three two * - -
+1.643e-05 | Len: 07 | g_p        | three half / sqrt_2 - one +
+4.315e-05 | Len: 09 | g_p        | alpha pi + e_math three - e_math + +
+4.315e-05 | Len: 11 | g_p        | alpha one ^ e_math two * + three pi - -
+4.418e-05 | Len: 11 | g_p        | e_math three pi / * three sqrt_2 alpha * - +
+9.511e-05 | Len: 07 | g_p        | g_e sqrt_3 * alpha phi - *
+0.000e+00 | Len: 09 | h          | three half pi / hbar three / / /
+0.000e+00 | Len: 07 | h          | hbar one pi pi + / /
+0.000e+00 | Len: 09 | h          | hbar pi pi sqrt_3 + sqrt_3 - + *
+0.000e+00 | Len: 09 | h          | e_charge G_0 / half / e_charge one / *
+0.000e+00 | Len: 09 | h          | e_charge one / two e_charge G_0 / * *
+1.554e-51 | Len: 07 | h          | pi hbar * two * one /
+1.554e-51 | Len: 07 | h          | pi three one - hbar * *
+1.554e-51 | Len: 09 | h          | pi three half one + hbar / / *
+1.554e-51 | Len: 11 | h          | pi one hbar / three two half - / / /
+1.554e-51 | Len: 09 | h          | hbar pi * half one sqrt_2 ^ * /
+1.554e-51 | Len: 09 | h          | pi hbar * two * sqrt_3 * sqrt_3 /
+1.554e-51 | Len: 11 | h          | one two half e_charge / two ^ G_0 * * /
+1.554e-51 | Len: 09 | h          | hbar pi one sqrt_3 ^ * pi + *
+1.554e-51 | Len: 11 | h          | hbar pi two two * three - two * * *
+1.554e-51 | Len: 09 | h          | three pi pi + hbar * * three /
+1.554e-51 | Len: 09 | h          | two hbar * pi one e_math ^ ^ *
+1.554e-51 | Len: 11 | h          | pi one half / hbar e_math / * * e_math *
+3.107e-51 | Len: 07 | h          | sqrt_2 e_charge * two ^ G_0 /
+3.107e-51 | Len: 07 | h          | hbar pi * sqrt_2 two ^ *
+2.580e-16 | Len: 09 | h          | e_charge three one + two / ^ R_K *
+2.580e-16 | Len: 07 | h          | e_charge one * two ^ R_K *
+2.580e-16 | Len: 11 | h          | pi hbar G_0 one half ^ * * R_K * *
+2.580e-16 | Len: 09 | h          | e_charge one half ^ ^ two ^ R_K *
+2.580e-16 | Len: 07 | h          | e_charge R_K e_charge * one / *
+2.580e-16 | Len: 09 | h          | hbar R_K * pi G_0 * * one *
+3.003e-15 | Len: 09 | h          | phi_0 G_0 K_J / half one ^ / *
+4.509e-15 | Len: 07 | h          | e_charge one phi_0 * phi_0 + *
+4.509e-15 | Len: 09 | h          | one sqrt_3 ^ phi_0 e_charge * two * *
+4.509e-15 | Len: 09 | h          | sqrt_2 e_charge two half ^ * * phi_0 *
+4.509e-15 | Len: 09 | h          | phi_0 two * e_charge * sqrt_2 sqrt_2 / /
+4.509e-15 | Len: 11 | h          | e_charge three * half three phi_0 / one / * /
+4.509e-15 | Len: 09 | h          | phi_0 e_math * e_math half e_charge / * /
+4.509e-15 | Len: 09 | h          | e_charge phi_0 * one half ^ * two *
+4.509e-15 | Len: 09 | h          | two three / e_charge * three phi_0 * *
+4.509e-15 | Len: 09 | h          | phi_0 e_charge two one three ^ * * *
+4.509e-15 | Len: 07 | h          | sqrt_2 sqrt_2 phi_0 e_charge * * *
+4.509e-15 | Len: 09 | h          | phi_0 e_math e_math / ^ e_charge two * *
+4.509e-15 | Len: 11 | h          | e_charge sqrt_2 two ^ one - * two phi_0 * *
+4.509e-15 | Len: 09 | h          | e_charge phi_0 half / * three three / *
+4.509e-15 | Len: 09 | h          | e_math phi_0 phi_0 + * e_charge e_math / *
+4.509e-15 | Len: 11 | h          | e_charge phi_0 one e_math ^ pi ^ * * two *
+4.509e-15 | Len: 11 | h          | e_charge half phi_0 one three pi ^ ^ ^ / /
+4.767e-15 | Len: 09 | h          | phi_0 one * G_0 * e_charge R_K * *
+7.511e-15 | Len: 07 | h          | e_charge one ^ two K_J / *
+7.511e-15 | Len: 07 | h          | e_charge one / e_charge + K_J /
+7.511e-15 | Len: 09 | h          | two K_J / sqrt_3 * e_charge * sqrt_3 /
+7.511e-15 | Len: 11 | h          | e_charge K_J one e_math ^ one two / - * /
+7.511e-15 | Len: 11 | h          | two three e_charge * * three one / / K_J /
+7.511e-15 | Len: 07 | h          | e_charge sqrt_2 * K_J sqrt_2 / /
+7.511e-15 | Len: 09 | h          | e_charge K_J / three one - * one /
+7.511e-15 | Len: 07 | h          | e_charge one * half K_J * /
+7.511e-15 | Len: 11 | h          | phi phi / K_J one / half * e_charge / /
+7.511e-15 | Len: 09 | h          | phi K_J e_charge / / two * phi /
+7.511e-15 | Len: 09 | h          | sqrt_2 sqrt_2 e_charge one * * * K_J /
+7.511e-15 | Len: 09 | h          | e_charge K_J / three * two three / *
+8.759e-15 | Len: 11 | h          | phi_0 half / three ^ R_K / half * phi_0 /
+8.759e-15 | Len: 09 | h          | phi_0 half one * / two ^ R_K /
+9.017e-15 | Len: 11 | h          | phi_0 two ^ three * G_0 three two / / *
+9.017e-15 | Len: 07 | h          | phi_0 sqrt_2 * two ^ G_0 *
+9.017e-15 | Len: 11 | h          | phi_0 one / phi_0 * one G_0 half / * *
+9.017e-15 | Len: 09 | h          | two G_0 phi_0 two one * ^ * *
+9.017e-15 | Len: 11 | h          | two phi_0 * two ^ one / half G_0 * *
+1.202e-14 | Len: 11 | h          | hbar one phi_0 pi half / / K_J * / *
+1.202e-14 | Len: 11 | h          | pi phi_0 one * / K_J / two hbar * *
+1.502e-14 | Len: 09 | h          | one G_0 half K_J K_J * * / *
+1.502e-14 | Len: 09 | h          | two G_0 K_J two ^ / * one ^
+1.600e-14 | Len: 07 | h          | E_h two / c R_inf * /
+1.600e-14 | Len: 07 | h          | half c / E_h R_inf / *
+1.600e-14 | Len: 11 | h          | half R_inf / three / three * E_h * c /
+1.600e-14 | Len: 07 | h          | E_h R_inf c c + * /
+3.597e-14 | Len: 11 | h          | two Z_0 * e_charge epsilon_0 * * c * K_J /
+5.090e-14 | Len: 07 | h          | lambda_C c mu_pe m_p / / *
+5.090e-14 | Len: 11 | h          | c lambda_C * m_p * mu_pe one * / one ^
+6.365e-13 | Len: 07 | h          | lambda_C hbar alpha * r_e / *
+6.365e-13 | Len: 11 | h          | hbar lambda_C * two alpha two / r_e / * *
+2.576e-12 | Len: 09 | h          | lambda_C one / alpha a_0 * / hbar *
+4.997e-12 | Len: 09 | h          | e_charge mu_B * r_e mu_0 one ^ / /
+5.396e-12 | Len: 11 | h          | lambda_C one ^ half m_e half c / / * *
+5.396e-12 | Len: 11 | h          | m_e two mu_0 * / lambda_C Z_0 * half / *
+3.974e-06 | Len: 09 | h          | c lambda_C mu_pe alpha + / m_p * *
+3.974e-06 | Len: 11 | h          | e_charge one alpha mu_pe / + * half / phi_0 *
+4.238e-06 | Len: 09 | h          | R_inf alpha r_e / + lambda_C hbar * *
+8.475e-06 | Len: 09 | h          | hbar half pi lambda_C R_inf * + / /
+1.331e-05 | Len: 11 | h          | R_inf lambda_C * two + K_J / one * e_charge *
+2.663e-05 | Len: 11 | h          | sqrt_2 two ^ alpha two ^ - K_J / e_charge *
+5.325e-05 | Len: 11 | h          | a_0 r_e + pi * hbar half a_0 * / *
+6.726e-05 | Len: 09 | h          | R_K e_charge two alpha e_math ^ + ^ *
+9.678e-05 | Len: 11 | h          | a_0 three R_inf / / two + K_J e_charge / /
+0.000e+00 | Len: 07 | hbar       | h half one ^ pi / *
+0.000e+00 | Len: 09 | hbar       | h e_math / e_math * pi pi + /
+0.000e+00 | Len: 11 | hbar       | one h half two ^ * pi half * / *
+0.000e+00 | Len: 09 | hbar       | h half * pi / phi * phi /
+0.000e+00 | Len: 09 | hbar       | h two pi * / one sqrt_2 ^ /
+0.000e+00 | Len: 09 | hbar       | three two - half * h pi / *
+0.000e+00 | Len: 09 | hbar       | one G m_Pl m_Pl c / * * *
+0.000e+00 | Len: 09 | hbar       | h pi pi phi phi / * + /
+0.000e+00 | Len: 11 | hbar       | three one two * three h pi / / * /
+0.000e+00 | Len: 09 | hbar       | e_charge one / e_charge * G_0 pi * /
+2.441e-51 | Len: 09 | hbar       | e_math h two / * pi / e_math /
+2.441e-51 | Len: 07 | hbar       | h sqrt_2 / pi / sqrt_2 /
+2.441e-51 | Len: 09 | hbar       | h phi phi pi * two * / *
+2.441e-51 | Len: 11 | hbar       | one sqrt_3 ^ two h / / pi / one /
+4.881e-51 | Len: 09 | hbar       | h pi sqrt_2 one three - ^ / /
+4.881e-51 | Len: 11 | hbar       | one one / sqrt_2 / sqrt_2 / pi / h *
+2.580e-16 | Len: 11 | hbar       | one e_charge * pi / half e_charge * R_K * *
+3.003e-15 | Len: 09 | hbar       | one phi_0 * G_0 pi / K_J / *
+3.261e-15 | Len: 11 | hbar       | phi_0 K_J R_K half * one / * / pi /
+4.509e-15 | Len: 11 | hbar       | phi_0 e_charge pi half * sqrt_2 two ^ * / *
+4.509e-15 | Len: 09 | hbar       | phi_0 pi e_charge one half ^ * / /
+4.509e-15 | Len: 09 | hbar       | one two ^ e_charge pi / phi_0 * *
+4.509e-15 | Len: 09 | hbar       | e_charge phi / phi pi / * phi_0 *
+4.509e-15 | Len: 07 | hbar       | phi_0 e_charge * pi / one /
+4.509e-15 | Len: 11 | hbar       | phi_0 e_charge pi sqrt_2 one sqrt_2 / * * / *
+4.509e-15 | Len: 09 | hbar       | phi_0 e_charge one three ^ / * pi /
+4.509e-15 | Len: 11 | hbar       | half pi e_charge three one - phi_0 * * / /
+4.509e-15 | Len: 11 | hbar       | e_charge phi_0 sqrt_2 two ^ two / / * pi /
+7.511e-15 | Len: 07 | hbar       | one pi / e_charge * K_J /
+7.511e-15 | Len: 11 | hbar       | half K_J half * e_charge / one / pi * /
+9.017e-15 | Len: 09 | hbar       | one phi_0 two ^ * pi / G_0 *
+9.017e-15 | Len: 09 | hbar       | phi_0 one one + ^ G_0 * pi /
+1.502e-14 | Len: 09 | hbar       | one pi / G_0 K_J two ^ / *
+6.365e-13 | Len: 09 | hbar       | r_e alpha / h lambda_C / * one /
+6.874e-13 | Len: 11 | hbar       | m_p alpha one / mu_pe * / c * r_e *
+8.740e-13 | Len: 09 | hbar       | h R_inf * a_0 * alpha / half /
+8.740e-13 | Len: 09 | hbar       | h R_inf * a_0 * two alpha / *
+8.740e-13 | Len: 11 | hbar       | R_inf h alpha / one / * two * a_0 *
+8.740e-13 | Len: 11 | hbar       | R_inf one * half / alpha h a_0 * / /
+1.264e-12 | Len: 11 | hbar       | one mu_B mu_pe K_J / / m_p R_K * * *
+1.300e-12 | Len: 11 | hbar       | mu_B mu_B three * + c lambda_C * / K_J /
+1.706e-12 | Len: 09 | hbar       | m_e mu_0 R_K two r_e * * / /
+2.576e-12 | Len: 11 | hbar       | three h three a_0 / lambda_C * alpha / / *
+2.576e-12 | Len: 07 | hbar       | a_0 h alpha * * lambda_C /
+2.627e-12 | Len: 09 | hbar       | alpha mu_pe / m_p * c * a_0 *
+2.820e-12 | Len: 07 | hbar       | a_0 alpha c m_e * * *
+4.759e-12 | Len: 09 | hbar       | Z_0 r_e * m_e mu_0 alpha * / *
+6.699e-12 | Len: 11 | hbar       | one one m_e R_K * phi_0 mu_B / / * *
+6.703e-12 | Len: 11 | hbar       | mu_B e_charge half half m_e two / / * * /
+6.703e-12 | Len: 11 | hbar       | R_K G_0 * e_charge / m_e one ^ mu_B * *
+6.711e-12 | Len: 09 | hbar       | R_K K_J m_e one mu_B * * * *
+6.711e-12 | Len: 07 | hbar       | mu_B R_K * m_e * K_J *
+8.667e-05 | Len: 09 | hbar       | half h * pi half mu_pe / + /
+4.776e-13 | Len: 07 | lambda_C   | pi a_0 * Z_0 R_K / *
+6.365e-13 | Len: 11 | lambda_C   | two alpha / r_e * hbar / h half * *
+6.365e-13 | Len: 11 | lambda_C   | r_e half three pi / alpha three / * * /
+6.365e-13 | Len: 11 | lambda_C   | two pi * three r_e / alpha three / * /
+2.576e-12 | Len: 09 | lambda_C   | pi one * two * a_0 alpha * *
+2.576e-12 | Len: 09 | lambda_C   | pi one / pi + alpha * a_0 *
+2.576e-12 | Len: 11 | lambda_C   | alpha pi * three half a_0 / / three / *
+2.576e-12 | Len: 09 | lambda_C   | a_0 pi * half / one / alpha *
+5.353e-12 | Len: 07 | lambda_C   | epsilon_0 Z_0 m_e h / / *
+5.353e-12 | Len: 09 | lambda_C   | epsilon_0 Z_0 * m_e h one / / /
+0.000e+00 | Len: 07 | m_Pl       | c hbar * G / half ^
+1.930e-12 | Len: 07 | m_e        | E_h alpha c * two ^ /
+2.777e-12 | Len: 09 | m_e        | Z_0 alpha / hbar * a_0 / epsilon_0 *
+4.759e-12 | Len: 09 | m_e        | alpha one * c / hbar * r_e /
+5.391e-12 | Len: 09 | m_e        | two lambda_C / e_charge * phi_0 * c /
+5.396e-12 | Len: 11 | m_e        | pi lambda_C / two * hbar c one / / *
+5.396e-12 | Len: 09 | m_e        | hbar c / lambda_C / pi two * *
+5.396e-12 | Len: 09 | m_e        | h c / lambda_C / three two - *
+5.447e-12 | Len: 09 | m_e        | G_0 two R_K / / m_p * mu_pe /
+5.830e-12 | Len: 09 | m_e        | R_K a_0 / half hbar epsilon_0 * / /
+5.830e-12 | Len: 09 | m_e        | R_K h * epsilon_0 a_0 / * pi /
+6.699e-12 | Len: 11 | m_e        | phi_0 hbar * one two * G_0 / mu_B * /
+6.699e-12 | Len: 07 | m_e        | phi_0 mu_B R_K * hbar / /
+6.703e-12 | Len: 11 | m_e        | half mu_B / hbar one three ^ / * e_charge *
+6.703e-12 | Len: 11 | m_e        | three half mu_B e_charge hbar * / / three / *
+1.263e-06 | Len: 07 | m_e        | m_p two g_e + mu_pe + /
+2.544e-06 | Len: 09 | m_e        | m_p mu_pe pi - sqrt_3 sqrt_2 + + /
+3.974e-06 | Len: 11 | m_e        | m_p one sqrt_2 one ^ ^ alpha mu_pe + / *
+3.974e-06 | Len: 05 | m_e        | m_p mu_pe alpha - /
+4.545e-06 | Len: 09 | m_e        | m_n phi three / mu_pe + two + /
+5.561e-06 | Len: 11 | m_e        | m_p mu_pe pi g_e three one - * ^ - /
+5.569e-06 | Len: 11 | m_e        | m_p mu_pe sqrt_3 alpha phi two / * * - /
+7.939e-06 | Len: 09 | m_e        | m_p mu_pe G_0 Z_0 g_e / * - /
+1.134e-05 | Len: 09 | m_e        | m_p mu_pe half g_p ^ one ^ - /
+2.074e-05 | Len: 07 | m_e        | alpha one + u * mu_pe /
+2.082e-05 | Len: 11 | m_e        | m_n mu_pe three + one alpha * half + - /
+2.474e-05 | Len: 11 | m_e        | m_p mu_pe alpha three * phi ^ half ^ + /
+3.856e-05 | Len: 09 | m_e        | m_p mu_pe half pi three - * - /
+4.134e-05 | Len: 11 | m_e        | m_n two ^ m_p / pi two mu_pe + + /
+4.672e-05 | Len: 09 | m_e        | m_p mu_pe sqrt_2 one - half - - /
+4.723e-05 | Len: 07 | m_e        | e_math alpha ^ u mu_pe / *
+4.995e-05 | Len: 09 | m_e        | m_n mu_pe sqrt_3 + half sqrt_2 * + /
+5.123e-05 | Len: 09 | m_e        | m_n mu_pe g_p + alpha pi + - /
+6.118e-05 | Len: 09 | m_e        | m_p mu_pe half e_math sqrt_3 + / + /
+7.345e-05 | Len: 07 | m_e        | m_p alpha * u + mu_pe /
+5.439e-12 | Len: 09 | m_p        | m_e mu_pe * K_J e_charge G_0 / * /
+5.447e-12 | Len: 09 | m_p        | m_e Z_0 * mu_0 / c / mu_pe *
+5.459e-12 | Len: 07 | m_p        | phi_0 K_J m_e mu_pe * * *
+5.839e-08 | Len: 11 | m_p        | u g_p phi - alpha two ^ ^ alpha - /
+4.384e-06 | Len: 11 | m_p        | one three alpha ^ + two - mu_pe + m_e *
+4.420e-06 | Len: 09 | m_p        | sqrt_2 g_p three ^ / mu_pe + m_e *
+7.456e-06 | Len: 11 | m_p        | mu_pe alpha pi two - / alpha + - m_e *
+8.762e-06 | Len: 11 | m_p        | m_e one sqrt_3 g_e e_math + - - mu_pe + *
+1.302e-05 | Len: 11 | m_p        | mu_pe two g_p / + phi + two - m_e *
+1.592e-05 | Len: 11 | m_p        | m_e mu_pe one alpha half / g_e * * - *
+1.674e-05 | Len: 09 | m_p        | m_e mu_pe g_p sqrt_3 pi ^ - + *
+1.717e-05 | Len: 09 | m_p        | two one sqrt_2 / + alpha ^ u *
+2.074e-05 | Len: 09 | m_p        | alpha half two * + u * one /
+2.074e-05 | Len: 09 | m_p        | u alpha one three sqrt_2 ^ ^ + *
+2.074e-05 | Len: 07 | m_p        | one pi ^ alpha + u *
+2.220e-05 | Len: 07 | m_p        | m_e g_p alpha * mu_pe + *
+2.497e-05 | Len: 07 | m_p        | mu_pe lambda_C a_0 / - m_e *
+2.889e-05 | Len: 11 | m_p        | m_e mu_pe a_0 alpha three lambda_C * / * - *
+3.184e-05 | Len: 09 | m_p        | m_n pi g_e + alpha sqrt_2 * ^ /
+3.519e-05 | Len: 11 | m_p        | g_e three / one - sqrt_3 + mu_pe + m_e *
+4.723e-05 | Len: 11 | m_p        | e_math alpha ^ half u half one / * / /
+4.723e-05 | Len: 05 | m_p        | e_math alpha ^ u *
+5.143e-05 | Len: 09 | m_p        | m_n m_e three two e_math * - * +
+6.210e-05 | Len: 07 | m_p        | m_e mu_pe phi sqrt_3 - + *
+6.428e-05 | Len: 09 | m_p        | mu_pe half - two phi - + m_e *
+7.018e-05 | Len: 07 | m_p        | m_n one alpha g_p / - *
+7.399e-05 | Len: 05 | m_p        | u one alpha - /
+7.417e-05 | Len: 11 | m_p        | g_p half * g_e m_e / / m_n + m_e -
+7.770e-05 | Len: 11 | m_p        | three half + g_p alpha * * mu_pe + m_e *
+8.142e-05 | Len: 07 | m_p        | m_n u alpha g_p / * -
+8.351e-05 | Len: 05 | m_p        | m_n alpha * u +
+8.668e-05 | Len: 09 | m_p        | m_e mu_pe one half pi / * - *
+8.748e-05 | Len: 09 | m_p        | u alpha m_n m_e one * + * +
+9.639e-05 | Len: 11 | m_p        | m_n m_e g_p two half g_e + + ^ * -
+0.000e+00 | Len: 09 | mu_0       | Z_0 c three one half / - * /
+0.000e+00 | Len: 07 | mu_0       | Z_0 one e_math ^ * c /
+0.000e+00 | Len: 07 | mu_0       | Z_0 c three two - ^ /
+0.000e+00 | Len: 07 | mu_0       | Z_0 one sqrt_3 ^ * c /
+0.000e+00 | Len: 07 | mu_0       | phi phi / Z_0 c / *
+0.000e+00 | Len: 07 | mu_0       | one three ^ c / Z_0 *
+0.000e+00 | Len: 11 | mu_0       | Z_0 two * three / half * three c / *
+1.202e-14 | Len: 09 | mu_0       | phi_0 Z_0 * c / K_J one ^ *
+4.348e-14 | Len: 11 | mu_0       | epsilon_0 Z_0 two ^ one / * two one - ^
+4.348e-14 | Len: 09 | mu_0       | one e_math ^ epsilon_0 Z_0 two ^ * *
+4.348e-14 | Len: 09 | mu_0       | epsilon_0 Z_0 two three - half / ^ /
+4.348e-14 | Len: 11 | mu_0       | pi pi epsilon_0 / Z_0 / / Z_0 * one *
+4.348e-14 | Len: 11 | mu_0       | epsilon_0 Z_0 two half two * / one / ^ *
+4.348e-14 | Len: 09 | mu_0       | three epsilon_0 / three / c two ^ /
+4.348e-14 | Len: 09 | mu_0       | pi c / pi c epsilon_0 * * /
+1.887e-12 | Len: 11 | mu_0       | one alpha m_e E_h / epsilon_0 alpha / / * *
+3.010e-12 | Len: 09 | mu_0       | alpha two epsilon_0 R_K * * * Z_0 *
+3.053e-12 | Len: 11 | mu_0       | R_K alpha pi * * pi / half / c /
+3.053e-12 | Len: 07 | mu_0       | alpha R_K * c / two *
+3.053e-12 | Len: 09 | mu_0       | R_K sqrt_2 * c sqrt_2 alpha * / /
+3.054e-12 | Len: 11 | mu_0       | one G_0 c * alpha / / two two * *
+3.054e-12 | Len: 09 | mu_0       | alpha two two + * c G_0 * /
+4.368e-12 | Len: 09 | mu_0       | alpha pi / K_J mu_B * lambda_C / /
+4.990e-12 | Len: 11 | mu_0       | h mu_B one G_0 * r_e / K_J / * /
+4.993e-12 | Len: 09 | mu_0       | two phi_0 one ^ * r_e * mu_B /
+4.993e-12 | Len: 07 | mu_0       | r_e phi_0 mu_B two / / *
+4.993e-12 | Len: 09 | mu_0       | r_e mu_B phi_0 phi_0 one ^ + / /
+4.993e-12 | Len: 09 | mu_0       | r_e half / one phi_0 * * mu_B /
+4.997e-12 | Len: 11 | mu_0       | two r_e * mu_B two * e_charge h / * /
+4.997e-12 | Len: 07 | mu_0       | r_e h * mu_B e_charge * /
+5.005e-12 | Len: 07 | mu_0       | r_e mu_B K_J half * * /
+5.005e-12 | Len: 09 | mu_0       | r_e one / half K_J mu_B * * /
+5.005e-12 | Len: 07 | mu_0       | two mu_B K_J * / r_e *
+5.005e-12 | Len: 09 | mu_0       | r_e K_J / mu_B two / / one /
+5.396e-12 | Len: 07 | mu_0       | lambda_C m_e * Z_0 * h /
+2.663e-05 | Len: 11 | mu_0       | Z_0 two two alpha alpha * - c * / *
+3.883e-12 | Len: 09 | mu_B       | a_0 c e_charge * alpha half * * *
+4.997e-12 | Len: 11 | mu_B       | e_charge one * mu_0 half r_e / G_0 * * /
+7.834e-06 | Len: 09 | mu_pe      | m_p m_e / alpha alpha half + / -
+4.121e-05 | Len: 07 | mu_pe      | three pi * sqrt_3 phi + ^
+4.973e-05 | Len: 09 | mu_pe      | sqrt_3 two ^ e_math ^ phi / three ^
+3.003e-15 | Len: 09 | phi_0      | h two / one K_J G_0 / * *
+4.509e-15 | Len: 07 | phi_0      | one h * two e_charge * /
+4.509e-15 | Len: 07 | phi_0      | one e_math ^ e_charge G_0 / *
+4.509e-15 | Len: 07 | phi_0      | sqrt_2 sqrt_2 e_charge / / G_0 /
+5.428e-15 | Len: 09 | phi_0      | one K_J three R_K G_0 * - ^ /
+1.202e-14 | Len: 05 | phi_0      | one one ^ K_J /
+1.202e-14 | Len: 05 | phi_0      | three K_J / three /
+1.202e-14 | Len: 07 | phi_0      | half two * one K_J / *
+1.202e-14 | Len: 07 | phi_0      | two K_J / two / one ^
+1.202e-14 | Len: 09 | phi_0      | half one pi ^ two * K_J / *
+1.202e-14 | Len: 07 | phi_0      | one three sqrt_3 / ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | half half / e_math ^ K_J /
+1.202e-14 | Len: 05 | phi_0      | one sqrt_3 ^ K_J /
+1.202e-14 | Len: 09 | phi_0      | three K_J / three / half half / ^
+1.202e-14 | Len: 09 | phi_0      | two one * sqrt_2 two ^ K_J * /
+1.202e-14 | Len: 07 | phi_0      | two one - pi ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | two one phi ^ - K_J /
+1.202e-14 | Len: 07 | phi_0      | two half ^ sqrt_2 K_J * /
+1.202e-14 | Len: 09 | phi_0      | one K_J one half phi / ^ / /
+1.202e-14 | Len: 09 | phi_0      | one three / K_J sqrt_3 two ^ / /
+1.202e-14 | Len: 07 | phi_0      | one half ^ pi ^ K_J /
+1.202e-14 | Len: 09 | phi_0      | one one pi e_math + / ^ K_J /
+1.202e-14 | Len: 09 | phi_0      | one sqrt_2 three + two - ^ K_J /
+1.202e-14 | Len: 05 | phi_0      | one e_math ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | one half half + ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | one phi / phi * K_J /
+1.202e-14 | Len: 07 | phi_0      | one sqrt_2 phi + ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | one three sqrt_2 + ^ K_J /
+1.202e-14 | Len: 09 | phi_0      | three three / pi / K_J / pi *
+1.202e-14 | Len: 05 | phi_0      | e_math K_J e_math * /
+1.202e-14 | Len: 05 | phi_0      | sqrt_3 sqrt_3 / K_J /
+1.202e-14 | Len: 07 | phi_0      | sqrt_2 three three - ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | sqrt_3 sqrt_3 / half ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | one three pi + ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | one half sqrt_3 - ^ K_J /
+1.202e-14 | Len: 07 | phi_0      | three two - pi ^ K_J /
+3.041e-12 | Len: 09 | phi_0      | Z_0 R_K / alpha two K_J * * /
+4.356e-12 | Len: 09 | phi_0      | mu_0 alpha pi / mu_B lambda_C / / /
+4.993e-12 | Len: 07 | phi_0      | mu_0 mu_B * half * r_e /
+1.554e-06 | Len: 07 | phi_0      | alpha e_math ^ one + K_J /
+4.366e-06 | Len: 07 | phi_0      | three alpha mu_pe / ^ K_J /
+1.846e-05 | Len: 07 | phi_0      | two lambda_C R_inf * ^ K_J /
+2.663e-05 | Len: 07 | phi_0      | one R_inf lambda_C * - K_J /
+3.695e-05 | Len: 09 | phi_0      | sqrt_2 g_e ^ alpha ^ alpha ^ K_J /
+6.365e-13 | Len: 09 | r_e        | one lambda_C alpha half * pi / * *
+6.365e-13 | Len: 09 | r_e        | lambda_C two pi * one alpha * / /
+6.365e-13 | Len: 11 | r_e        | alpha pi one pi * + lambda_C / / one *
+1.706e-12 | Len: 11 | r_e        | hbar half m_e / mu_0 * * G_0 * two /
+1.939e-12 | Len: 09 | r_e        | a_0 alpha three two - * alpha * *
+1.939e-12 | Len: 11 | r_e        | alpha pi pi / sqrt_3 ^ / alpha * a_0 *
+1.939e-12 | Len: 09 | r_e        | a_0 alpha three one two - + ^ *
+4.993e-12 | Len: 11 | r_e        | half mu_B mu_0 half two * phi_0 / * * *

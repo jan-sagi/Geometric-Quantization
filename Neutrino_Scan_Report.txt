@@ -1,0 +1,41 @@
+[1m================================================================================
+ NEUTRINO FRACTAL SCANNER
+================================================================================[0m
+ ALPHA CONSTANT:   1 / 137.035999084
+ ELECTRON MASS:    510,998.95 eV
+ LEPTON SCALE:     104,116,315.03 eV
+--------------------------------------------------------------------------------
+
+[96m>>> SCAN 1: DAMPING FROM ELECTRON MASS (m_e * alpha^n)[0m
+ POWER  | FORMULA            | MASS (eV)          | INTERPRETATION
+--------------------------------------------------------------------------------
+ [0m^1     | m_e * a^1        | 3728.939501        | [0m
+ [0m^2     | m_e * a^2        | 27.211386          | Atomic Binding Energy[0m
+ [92m^3     | m_e * a^3        | 0.198571           | [1m<<< NEUTRINO CANDIDATE[0m[0m
+ [0m^4     | m_e * a^4        | 0.001449           | [0m
+
+[96m>>> SCAN 2: DAMPING FROM LEPTON LATTICE (Scale * alpha^n)[0m
+ POWER  | FORMULA            | MASS (eV)          | INTERPRETATION
+--------------------------------------------------------------------------------
+ [0m^1     | Scale * a^1      | 759773.458989      | [0m
+ [0m^2     | Scale * a^2      | 5544.334803        | [0m
+ [0m^3     | Scale * a^3      | 40.458966          | [0m
+ [92m^4     | Scale * a^4      | 0.295243           | [1m<<< NEUTRINO CANDIDATE[0m[0m
+ [0m^5     | Scale * a^5      | 0.002154           | [0m
+
+[1m================================================================================
+ CANDIDATE ANALYSIS
+================================================================================[0m
+ 1. ELECTRON FRACTAL (Alpha^3): [92m0.198571 eV[0m
+    - Interpretation: 3D projection of the Electron geometry.
+    - Relation to KATRIN Limit (<0.8 eV): CONSISTENT.
+
+ 2. LATTICE FRACTAL  (Alpha^4): [92m0.295243 eV[0m
+    - Interpretation: 4D projection of the Lepton Scale.
+    - Relation to Planck Sum (<0.12 eV):  SLIGHTLY HIGH (Sum of 3 flavors?)
+--------------------------------------------------------------------------------
+ CONCLUSION:
+ The Neutrino mass emerges naturally as the [1m3rd Geometric Shadow[0m
+ of the Electron (0.198 eV). It is not a particle, but a geometric echo.
+================================================================================
+ Report saved to 'Neutrino_Scan_Report.txt'

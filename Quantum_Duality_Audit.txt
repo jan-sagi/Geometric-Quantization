@@ -1,0 +1,21 @@
+=======================================================================================
+ QUANTUM DUALITY AUDIT (Robust Fair Test)
+=======================================================================================
+ Hypothesis: Unstable particles are 'Running Waves' with intrinsic velocity (v).
+             Stable particles are 'Standing Waves' (v=0).
+ Test Metric: COHERENCE LENGTH = How many wave-cycles before decay?
+=======================================================================================
+ PARTICLE | VELOCITY (c) | WAVE/SIZE RATIO | LIFETIME (s) | CYCLES (Coherence)
+-----------------------------------------------------------------------------------------------
+ Proton   | 0.00000 c    | N/A             | inf          | inf
+ Muon     | 0.17022 c    | 5.79            | 2.20e-06     | 1.65e+15
+ Tau      | 0.26299 c    | 3.67            | 2.90e-13     | 8.94e+09
+-----------------------------------------------------------------------------------------------
+ INTERPRETATION OF RESULTS:
+ 1. PROTON: Velocity 0 c. Infinite Coherence. Verified Stable.
+ 2. MUON vs TAU: Check the 'CYCLES' column.
+
+ [ANALYSIS] Muon/Tau Coherence Ratio: 1.85e+05
+ The Muon survives 184594 times more geometric cycles than the Tau.
+ This suggests the Tau ($k=17$) is topologically far more fragile than Muon ($k=1$).
+=======================================================================================

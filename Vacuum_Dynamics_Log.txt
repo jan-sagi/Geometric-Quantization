@@ -1,0 +1,14 @@
+================================================================================
+ VACUUM DYNAMICS SIMULATOR
+ Generating topological potential map...
+--------------------------------------------------------------------------------
+ PARTICLE   | k   | POTENTIAL  | STATUS
+--------------------------------------------------------------------------------
+ PROTON     | 6   | -20.0000   | STABLE (Singularity)
+ MUON       | 1   | -0.9713    | UNSTABLE
+ TAU        | 17  | -0.3132    | UNSTABLE
+ PION       | 2   | -1.8874    | META-STABLE
+================================================================================
+ Graph saved to: /home/jan/Desktop/MyUniverse/Vacuum_Landscape.png
+ Interpretation: Particles 'roll' into the nearest geometric well.
+ Tau (k=17) is on an unstable slope. Proton (k=6) is at the bottom of the abyss.

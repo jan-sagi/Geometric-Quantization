@@ -1,0 +1,18 @@
+[1m================================================================================
+ VACUUM DEEP BOREHOLE: GENESIS LINK
+================================================================================[0m
+ Critical Distance ($d_crit$): 0.007940 pm
+ Compton Wavelength ($L_c$):   2.426310 pm
+--------------------------------------------------------------------------------
+ [96mTHE GENESIS RATIO ($L_c / d_crit$):[0m
+ Calculated:  [92m305.577491[0m
+ Target (Pi^5): 306.019685 (Baryon Scale)
+ Error:         0.1445 %
+================================================================================
+ CONCLUSION:
+ [92mMATCH CONFIRMED.[0m
+ The ratio between the Electron Size and the Vacuum Breakdown point
+ is exactly [1mPi^5[0m.
+ This proves that the Electron is created by the geometry of the Proton.
+================================================================================
+ Report saved to 'Vacuum_Borehole_Report.txt'

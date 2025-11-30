@@ -1,0 +1,29 @@
+======================================================================
+ STABILITY ANALYSIS: PRIME NODES VS LIFETIME
+======================================================================
+ PARTICLE   | k   | TYPE         | LIFETIME (s)   
+-------------------------------------------------------
+ Muon       | 1   | UNIT(1)      | 2.2e-06
+ Tau        | 17  | PRIME        | 2.9e-13
+ Pion+      | 2   | PRIME        | 2.6e-08
+ Kaon+      | 7   | PRIME        | 1.2e-08
+ Rho        | 11  | PRIME        | 4.5e-24
+ Eta        | 8   | COMPOSITE    | 5.0e-19
+ Omega      | 11  | PRIME        | 7.7e-23
+ Phi        | 15  | COMPOSITE    | 1.5e-22
+ J/Psi      | 44  | COMPOSITE    | 7.2e-21
+ Proton     | 6   | PERFECT(6)   | 1.0e+20
+ Lambda     | 7   | PRIME        | 2.6e-10
+ Sigma      | 8   | COMPOSITE    | 8.0e-11
+ Delta      | 8   | COMPOSITE    | 5.6e-24
+-------------------------------------------------------
+ OBSERVATIONS:
+ 1. Low-k Primes (Pion k=2, Kaon k=7) show extended lifetimes.
+ 2. High-k Primes (Rho k=11, Omega k=11) are unstable.
+    -> Theory: Lattice saturation limits the 'Prime Shield' effect.
+ 3. Proton (k=6) is Perfect Geometry, outliving even Primes.
+======================================================================
+
+[INFO] Generating graph in: /home/jan/Desktop/MyUniverse
+[SUCCESS] Graph saved to: /home/jan/Desktop/MyUniverse/Stability_Analysis_Plot.png
+[SUCCESS] Log saved to:   /home/jan/Desktop/MyUniverse/Stability_Analysis_Log.txt

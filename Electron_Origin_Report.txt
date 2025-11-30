@@ -1,0 +1,21 @@
+================================================================================
+ ELECTRON ORIGIN PROBE
+================================================================================
+ Planck Mass (Vacuum):  2.1764e-8 kg
+ Electron Mass (Matter):9.1094e-31 kg
+ Damping Ratio:         2.3892e+22
+--------------------------------------------------------------------------------
+ CALCULATION: How many layers of Alpha does it take
+              to reduce Planck Mass to Electron Mass?
+
+ DIMENSIONAL EXPONENT (X) = 10.4726148345
+--------------------------------------------------------------------------------
+ ANALYSIS OF EXPONENT X (10.4726):
+ Is it 10 Dimensions? Diff: 0.4726
+ Is it 10*Pi/3?       Target: 10.4720 | Diff: 0.0006
+================================================================================
+ INTERPRETATION:
+ The Electron is the Planck Mass damped through approx 10.5 Dimensions.
+ Formula: m_e = M_Planck * Alpha^(10.47)
+ This effectively links Gravity (Planck) to Quantum Mechanics (Electron).
+================================================================================

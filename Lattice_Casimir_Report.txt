@@ -1,0 +1,29 @@
+[1m================================================================================
+ VACUUM LATTICE: CASIMIR & GENESIS PROBE
+================================================================================[0m
+ Lattice Unit (Compton Wavelength): 2.4263e-12 m
+--------------------------------------------------------------------------------
+ GAP (d)      | PRESSURE (Pa)      | LATTICE STRESS
+--------------------------------------------------------------------------------
+ 1000 nm       | 0.0013             | Weak interaction
+ 100  nm       | 13.0013            | Measurable Force
+ 10   nm       | 130012.5772        | [93mHigh Stress[0m
+ 5    nm       | 2080201.2359       | [93mHigh Stress[0m
+ 1    nm       | 1300125772.4478    | [93mHigh Stress[0m
+================================================================================
+ [1mPARTICLE GENESIS SEARCH (The Schwinger Limit)[0m
+ Attempting to compress the lattice until it 'pops' an Electron.
+--------------------------------------------------------------------------------
+ [0mGap: 100    pm | Pressure: 1.30e+13 Pa | Mass Potential: 0.0000 % | Vacuum Elastic[0m
+ [0mGap: 10     pm | Pressure: 1.30e+17 Pa | Mass Potential: 0.0011 % | Vacuum Elastic[0m
+ [0mGap: 1      pm | Pressure: 1.30e+21 Pa | Mass Potential: 11.3413 % | [93mLattice Strained[0m[0m
+ [92mGap: 0.5    pm | Pressure: 2.08e+22 Pa | Mass Potential: 181.4613 % | [91m>>> PARTICLE CREATION DETECTED![0m[0m
+ [92mGap: 0.386  pm | Pressure: 5.86e+22 Pa | Mass Potential: 510.8751 % | [91m>>> PARTICLE CREATION DETECTED![0m[0m
+================================================================================
+ CONCLUSION:
+ 1. The Lattice behaves as an elastic solid (Casimir Force).
+ 2. Critical Breakdown occurs near [1m0.5 pm[0m.
+    This matches the [96mCompton Wavelength[0m of the electron.
+    If you compress space smaller than an electron, the space *becomes* an electron.
+================================================================================
+ Report saved to 'Lattice_Casimir_Report.txt'

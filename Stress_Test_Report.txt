@@ -1,0 +1,40 @@
+INITIATING THEORY DESTRUCTION TESTS...
+
+TEST 1: ISOBAR BLINDNESS (The Weak Force Attack)
+Hypothesis: Geometry based solely on 'A' cannot distinguish Proton from Neutron.
+If the theory assigns equal efficiency to stable and unstable isobars, it fails.
+--------------------------------------------------------------------------------
+ISOTOPE  | STATUS     | EFFICIENCY (Alpha)   | RESULT
+--------------------------------------------------------------------------------
+--- GROUP A=40 ---
+Ar-40    | STABLE     | 1.115317 alpha
+K-40     | UNSTABLE   | 1.109824 alpha
+Ca-40    | STABLE     | 1.114610 alpha
+ > Resolution Power (Delta Eff): 0.005139
+ > [PASS] Theory detects geometric difference.
+
+--- GROUP A=50 ---
+Ti-50    | STABLE     | 1.137596 alpha
+V-50     | UNSTABLE   | 1.131155 alpha
+Cr-50    | STABLE     | 1.134186 alpha
+ > Resolution Power (Delta Eff): 0.004736
+ > [PASS] Theory detects geometric difference.
+
+--- GROUP A=87 ---
+Rb-87    | UNSTABLE   | 1.129396 alpha
+Sr-87    | STABLE     | 1.129870 alpha
+ > Resolution Power (Delta Eff): 0.000474
+ > [CRITICAL FAIL] Theory is 'blind' to Beta Decay.
+   It cannot explain why Sr-87 decays into its neighbor.
+
+
+TEST 2: LATTICE SATURATION (The Statistical Attack)
+Hypothesis: At high energies, the geometric lattice is so dense anything fits.
+Method: Generate 1000 RANDOM 'particles' (2000 - 10000 MeV) and measure hit rate.
+--------------------------------------------------------------------------------
+Number of geometric nodes in 2-10 GeV band: 199
+Success rate of RANDOM numbers (Noise Floor):  99.80 %
+--------------------------------------------------------------------------------
+VERDICT:
+[DANGER] Lattice is saturated!
+More than 20% of random numbers hit the theory. Prediction power >2 GeV is low.
